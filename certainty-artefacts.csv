@@ -1,0 +1,18 @@
+institution,sector,type,available,method,uncertainty
+National Library of Wales,library,library,observed,2
+National Library of Scotland,library,library,observed,2
+Victoria & Albert Museum,dcms,museum,report,2
+Science Museum Group,dcms,museum,report,2
+Museum of the Home,dcms,museum,observed,2
+Horniman Museum,dcms,museum,report,2
+Imperial War Museums,dcms,museum,report,2
+National Gallery,dcms,gallery,observed,2
+National Museums Liverpool,dcms,museum,report,2
+National Portrait Gallery,dcms,gallery,report,2
+Natural History Museum,dcms,museum,report,2
+Royal Armouries,dcms,museum,report,2
+Royal Museums Greenwich,dcms,museum,report,2
+Sir John Soane's Museum,dcms,museum,report,2
+Tate Gallery Group,dcms,gallery,report,2
+The Wallace Collection,dcms,museum,observed,2
+British Museum,dcms,museum,report,2

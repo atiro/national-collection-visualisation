@@ -1,0 +1,130 @@
+institution,sector,type,topic,precision,record_count
+Oxford University,university,museum,mixed,estimate,1052444
+Bangor University,university,university,mixed,estimate,0
+University of York,university,university,mixed,estimate,0
+University of Cambridge,university,museum,mixed,estimate,0
+Cardiff University,university,university,mixed,estimate,0
+Durham University,university,museum,mixed,estimate,33234
+University College London,university,museum,mixed,estimate,104446
+University of Manchester,university,museum,mixed,estimate,0
+King's College London,university,museum,mixed,estimate,0
+University of Birmingham,university,museum,mixed,estimate,0
+Unversity of Warwick,university,museum,mixed,estimate,0
+Manchester Metropolitan Unversity,university,museum,mixed,estimate,0
+Swansea University,university,museum,mixed,estimate,0
+University of Brighton,university,museum,mixed,estimate,0
+"SOAS, University of London",university,museum,mixed,estimate,0
+University of Aberdeen,university,museum,mixed,estimate,0
+University of Bristol,university,museum,mixed,estimate,0
+University of Leeds,university,museum,mixed,estimate,0
+University of Leicester,university,museum,mixed,estimate,0
+University of Reading,university,university,mixed,estimate,0
+University of Sheffield,university,museum,mixed,estimate,0
+University of St Andrews,university,museum,mixed,estimate,0
+British Library,library,museum,mixed,estimate,0
+Chetham's Library,library,museum,mixed,estimate,0
+Glasgow Woman's Library,library,museum,mixed,estimate,3567
+Lambeth Palace Library,library,museum,theology,estimate,0
+National Library of Wales,library,library,mixed,estimate,0
+National Library of Scotland,library,library,mixed,estimate,0
+Victoria & Albert Museum,dcms,museum,art,estimate,1281326
+Science Museum Group,dcms,museum,science,estimate,0
+Museum of the Home,dcms,museum,history,estimate,12200
+Horniman Museum,dcms,museum,history,estimate,132612
+Imperial War Museums,dcms,museum,history,estimate,1737698
+National Gallery,dcms,museum,art,exact,2626
+National Museums Liverpool,dcms,museum,history,estimate,73682
+National Portrait Gallery,dcms,museum,art,estimate,220000
+Natural History Museum,dcms,museum,nature,estimate,78000000
+Royal Armouries,dcms,museum,history,estimate,65627
+Royal Museums Greenwich,dcms,museum,history,estimate,0
+Sir John Soane's Museum,dcms,museum,history,estimate,57164
+Tate Gallery Group,dcms,museum,art,estimate,79236
+The Wallace Collection,dcms,museum,art,estimate,0
+British Museum,dcms,museum,history,estimate,2000000
+Oxford University,university,library,mixed,estimate,8021011
+Bangor University,university,university,mixed,estimate,0
+University of York,university,university,mixed,estimate,0
+University of Cambridge,university,library,mixed,estimate,0
+Cardiff University,university,university,mixed,estimate,0
+Durham University,university,library,mixed,estimate,0
+University College London,university,library,mixed,estimate,0
+University of Manchester,university,library,mixed,estimate,0
+King's College London,university,library,mixed,estimate,0
+University of Birmingham,university,library,mixed,estimate,0
+Unversity of Warwick,university,library,mixed,estimate,0
+Manchester Metropolitan Unversity,university,library,mixed,estimate,28600
+Swansea University,university,library,mixed,estimate,0
+University of Brighton,university,library,mixed,estimate,0
+"SOAS, University of London",university,library,mixed,estimate,40337
+University of Aberdeen,university,library,mixed,estimate,0
+University of Bristol,university,library,mixed,estimate,0
+University of Leeds,university,library,mixed,estimate,0
+University of Leicester,university,library,mixed,estimate,0
+University of Reading,university,library,mixed,estimate,69841
+University of Sheffield,university,library,mixed,estimate,0
+University of St Andrews,university,library,mixed,estimate,0
+British Library,library,library,mixed,estimate,0
+Chetham's Library,library,library,mixed,estimate,0
+Glasgow Woman's Library,library,library,mixed,estimate,0
+Lambeth Palace Library,library,library,theology,estimate,15000
+National Library of Wales,library,library,mixed,estimate,0
+National Library of Scotland,library,library,mixed,estimate,0
+Victoria & Albert Museum,dcms,library,art,estimate,849000
+Science Museum Group,dcms,museum,science,estimate,0
+Museum of the Home,dcms,library,history,estimate,6290
+Horniman Museum,dcms,museum,history,estimate,0
+Imperial War Museums,dcms,museum,history,estimate,0
+National Gallery,dcms,gallery,art,estimate,0
+National Museums Liverpool,dcms,museum,history,estimate,0
+National Portrait Gallery,dcms,gallery,art,estimate,0
+Natural History Museum,dcms,museum,nature,estimate,0
+Royal Armouries,dcms,library,history,estimate,69619
+Royal Museums Greenwich,dcms,museum,history,estimate,0
+Sir John Soane's Museum,dcms,library,history,estimate,6393
+Tate Gallery Group,dcms,gallery,art,estimate,0
+The Wallace Collection,dcms,museum,art,estimate,0
+British Museum,dcms,museum,history,estimate,0
+Oxford University,university,archive,mixed,estimate,0
+Bangor University,university,university,mixed,estimate,0
+University of York,university,university,mixed,estimate,0
+University of Cambridge,university,archive,mixed,estimate,0
+Cardiff University,university,university,mixed,estimate,0
+Durham University,university,archive,mixed,estimate,0
+University College London,university,archive,mixed,estimate,0
+University of Manchester,university,archive,mixed,estimate,0
+King's College London,university,archive,mixed,estimate,0
+University of Birmingham,university,archive,mixed,estimate,0
+Unversity of Warwick,university,archive,mixed,estimate,367655
+Manchester Metropolitan Unversity,university,archive,mixed,estimate,0
+Swansea University,university,archive,mixed,estimate,0
+University of Brighton,university,archive,mixed,estimate,0
+"SOAS, University of London",university,archive,mixed,estimate,0
+University of Aberdeen,university,archive,mixed,estimate,0
+University of Bristol,university,archive,mixed,estimate,0
+University of Leeds,university,archive,mixed,estimate,0
+University of Leicester,university,archive,mixed,estimate,0
+University of Reading,university,archive,mixed,estimate,186216
+University of Sheffield,university,archive,mixed,estimate,0
+University of St Andrews,university,archive,mixed,estimate,0
+British Library,library,archive,mixed,estimate,0
+Chetham's Library,library,archive,mixed,estimate,0
+Glasgow Woman's Library,library,archive,mixed,estimate,0
+Lambeth Palace Library,library,archive,theology,estimate,0
+National Library of Wales,library,library,mixed,estimate,0
+National Library of Scotland,library,library,mixed,estimate,0
+Victoria & Albert Museum,dcms,archive,art,estimate,157054
+Science Museum Group,dcms,museum,science,estimate,0
+Museum of the Home,dcms,museum,history,estimate,0
+Horniman Museum,dcms,museum,history,estimate,0
+Imperial War Museums,dcms,museum,history,estimate,0
+National Gallery,dcms,gallery,art,estimate,0
+National Museums Liverpool,dcms,museum,history,estimate,0
+National Portrait Gallery,dcms,gallery,art,estimate,0
+Natural History Museum,dcms,museum,nature,estimate,0
+Royal Armouries,dcms,archive,history,estimate,130130
+Royal Museums Greenwich,dcms,museum,history,estimate,0
+Sir John Soane's Museum,dcms,archive,history,estimate,0
+Tate Gallery Group,dcms,archive,art,estimate,807060
+The Wallace Collection,dcms,museum,art,estimate,0
+British Museum,dcms,museum,history,estimate,0

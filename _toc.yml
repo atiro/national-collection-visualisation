@@ -1,0 +1,25 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Overview (Latest)
+    chapters:
+      - file: general-overview
+      - file: general-institution-overview
+      - file: artefacts-overview
+      - file: cataloguing-overview
+      - file: records-overview
+      - file: records-subcollection-overview
+#  - caption: Overview (Progress)
+  - caption: Sector Stats
+    chapters:
+      - file: objects-overview
+#    - file: library-overview
+#    - file: archive-overview
+#  - caption: Topic Stats
+#    chapters:
+#    - file: objects-overview
+#    - file: library-overview
+#    - file: archive-overview

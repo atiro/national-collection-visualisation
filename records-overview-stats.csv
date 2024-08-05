@@ -1,0 +1,9 @@
+Type,precision,record_count
+object_records,exact,2626
+object_records,estimate,84979545
+library_records,exact,0
+library_records,estimate,946302
+archive_records,exact,0
+archive_records,estimate,1094244
+artefact_records,exact,2626
+artefact_records,estimate,87020091

@@ -1,0 +1,27 @@
+institution,subcollection,sector,type,topic,precision,record_count
+Oxford University,History of Science Museum,university,museum,science,estimate,33592
+Oxford University,Museum of Natural History,university,museum,nature,estimate,505745
+Oxford University,Pitt Rivers Museum,university,museum,anthopology,estimate,513107
+Durham University,Oriental Museum,university,museum,art,estimate,33234
+University College London,Petrie Museum,university,museum,history,estimate,83455
+University College London,UCL Art Museum,university,museum,art,estimate,10712
+University College London,UCL Pathology Collection,university,museum,medicine,estimate,8817
+University College London,UCL Pathology Collection,university,museum,science,estimate,1462
+Glasgow Woman's Library,Museum Collections,library,museum,mixed,estimate,3567
+Victoria & Albert Museum,Victoria & Albert Museum,dcms,museum,art,exact,1281326
+Museum of the Home,Museum of the Home,dcms,museum,history,exact,12200
+Horniman Museum,Museum Collection,dcms,museum,history,estimate,132612
+Imperial War Museums,Museum Collection,dcms,museum,history,estimate,1737698
+National Gallery,Museum Collection,dcms,museum,history,estimate,2626
+National Museums Liverpool,Museum Collection,dcms,museum,history,estimate,73682
+National Portrait Gallery,Museum Collection,dcms,museum,history,estimate,220000
+Natural History Museum,Entomology collections,dcms,museum,nature,estimate,34000000
+Natural History Museum,Botany collections,dcms,museum,nature,estimate,6000000
+Natural History Museum,Zooology collections,dcms,museum,nature,estimate,29000000
+Natural History Museum,Palaeontology collections,dcms,museum,nature,estimate,7000000
+Natural History Museum,Mineralogy collections,dcms,museum,nature,estimate,500000
+Natural History Museum,Library and archive collections,dcms,library,nature,estimate,1500000
+Royal Armouries,Museum Collection,dcms,museum,nature,estimate,65627
+Sir John Soane's Museum,Museum Collection,dcms,museum,nature,estimate,57164
+Tate Gallery Group,Museum Collection,dcms,museum,nature,estimate,79236
+British Museum,Museum Collection,dcms,museum,nature,estimate,2000000

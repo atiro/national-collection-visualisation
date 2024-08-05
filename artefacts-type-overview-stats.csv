@@ -1,0 +1,131 @@
+institution,sector,institution_type,topic,type,level,precision,artefact_count
+Oxford University,museum,university,mixed,object,item,estimate,0
+Oxford University,library,university,mixed,library,item,estimate,20000
+Oxford University,archive,university,mixed,archive,item,estimate,5000000
+Bangor University,archive,university,mixed,archive,collection,estimate,98
+Bangor University,museum,university,mixed,object,item,estimate,0
+Bangor University,library,university,mixed,library,item,estimate,0
+Bangor University,archive,university,mixed,archive,item,estimate,0
+University of York,archive,university,mixed,archive,item,estimate,132370
+University of York,museum,university,mixed,object,item,estimate,0
+University of York,library,university,mixed,library,item,estimate,0
+University of Cambridge,museum,university,mixed,object,item,estimate,0
+University of Cambridge,library,university,mixed,library,item,estimate,10000000
+University of Cambridge,archive,university,mixed,archive,item,estimate,0
+Cardiff University,library,university,mixed,library,item,estimate,1100000
+Cardiff University,museum,university,mixed,object,item,estimate,0
+Cardiff University,archive,university,mixed,archive,item,estimate,0
+Durham University,museum,university,mixed,object,item,estimate,36000
+Durham University,library,university,mixed,library,item,estimate,70000
+Durham University,archive,university,mixed,archive,item,estimate,0
+University College London,museum,university,mixed,object,item,estimate,164000
+University College London,library,university,mixed,library,item,estimate,0
+University College London,archive,university,mixed,archive,item,estimate,0
+University of Manchester,museum,university,mixed,object,item,estimate,60000
+University of Manchester,library,university,mixed,library,item,estimate,4000000
+University of Manchester,archive,university,mixed,archive,item,estimate,0
+King's College London,museum,university,mixed,object,item,estimate,0
+King's College London,library,university,mixed,library,item,estimate,200000
+King's College London,archive,university,mixed,archive,item,estimate,0
+University of Birmingham,museum,university,mixed,object,item,estimate,250000
+University of Birmingham,library,university,mixed,library,item,estimate,250000
+University of Birmingham,archive,university,mixed,archive,item,estimate,4000000
+Unversity of Warwick,museum,university,mixed,object,item,estimate,0
+Unversity of Warwick,library,university,mixed,library,item,estimate,16000
+Unversity of Warwick,archive,university,mixed,archive,item,estimate,0
+Manchester Metropolitan Unversity,museum,university,mixed,object,item,estimate,0
+Manchester Metropolitan Unversity,library,university,mixed,library,item,estimate,0
+Manchester Metropolitan Unversity,archive,university,mixed,archive,item,estimate,0
+Swansea University,museum,university,mixed,object,item,estimate,0
+Swansea University,library,university,mixed,library,item,estimate,1700
+Swansea University,archive,university,mixed,archive,item,estimate,0
+University of Brighton,museum,university,mixed,object,item,estimate,0
+University of Brighton,library,university,mixed,library,item,estimate,50000
+University of Brighton,archive,university,mixed,archive,item,estimate,0
+"SOAS, University of London",museum,university,mixed,object,item,estimate,0
+"SOAS, University of London",library,university,mixed,library,item,estimate,60000
+"SOAS, University of London",archive,university,mixed,archive,item,estimate,0
+University of Aberdeen,museum,university,mixed,object,item,estimate,0
+University of Aberdeen,library,university,mixed,library,item,estimate,530000
+University of Aberdeen,archive,university,mixed,archive,item,estimate,0
+University of Bristol,museum,university,mixed,object,item,estimate,100000
+University of Bristol,library,university,mixed,library,item,estimate,0
+University of Bristol,archive,university,mixed,archive,item,estimate,0
+University of Leeds,museum,university,mixed,object,item,estimate,0
+University of Leeds,library,university,mixed,library,item,estimate,350000
+University of Leeds,archive,university,mixed,archive,item,estimate,0
+University of Leicester,museum,university,mixed,object,item,estimate,25000
+University of Leicester,library,university,mixed,library,item,estimate,0
+University of Leicester,archive,university,mixed,archive,item,estimate,0
+University of Reading,museum,university,mixed,object,item,estimate,0
+University of Reading,library,university,mixed,library,item,estimate,0
+University of Reading,archive,university,mixed,archive,item,estimate,0
+University of Sheffield,museum,university,mixed,object,item,estimate,0
+University of Sheffield,library,university,mixed,library,item,estimate,30000
+University of Sheffield,archive,university,mixed,archive,item,estimate,0
+University of St Andrews,museum,university,mixed,object,item,estimate,0
+University of St Andrews,library,university,mixed,library,item,estimate,200000
+University of St Andrews,archive,university,mixed,archive,item,estimate,0
+British Library,museum,library,mixed,object,item,estimate,0
+British Library,library,library,mixed,library,item,estimate,33810000
+British Library,archive,library,mixed,archive,item,estimate,0
+Chetham's Library,museum,library,mixed,object,item,estimate,0
+Chetham's Library,library,library,mixed,library,item,estimate,121041
+Chetham's Library,archive,library,mixed,archive,item,estimate,0
+Glasgow Woman's Library,museum,library,mixed,object,item,estimate,0
+Glasgow Woman's Library,library,library,mixed,library,item,estimate,0
+Glasgow Woman's Library,archive,library,mixed,archive,item,estimate,0
+Lambeth Palace Library,museum,library,theology,object,item,estimate,0
+Lambeth Palace Library,library,library,theology,library,item,estimate,186200
+Lambeth Palace Library,archive,library,theology,archive,item,estimate,0
+National Library of Wales,library,library,mixed,library,item,estimate,7540000
+National Library of Wales,museum,library,mixed,object,item,estimate,0
+National Library of Wales,archive,library,mixed,archive,item,estimate,0
+National Library of Scotland,museum,library,mixed,object,item,estimate,0
+National Library of Scotland,library,library,mixed,library,item,estimate,0
+National Library of Scotland,archive,library,mixed,archive,item,estimate,0
+Victoria & Albert Museum,museum,museum,art,object,item,estimate,1691513
+Victoria & Albert Museum,library,museum,art,library,item,estimate,1130157
+Victoria & Albert Museum,archive,museum,art,archive,item,estimate,0
+Science Museum Group,museum,museum,science,object,item,estimate,0
+Science Museum Group,library,museum,science,library,item,estimate,0
+Science Museum Group,archive,museum,science,archive,item,estimate,0
+Museum of the Home,museum,museum,history,object,item,estimate,0
+Museum of the Home,library,museum,history,library,item,estimate,0
+Museum of the Home,archive,museum,history,archive,item,estimate,0
+Horniman Museum,museum,museum,history,object,item,estimate,0
+Horniman Museum,library,museum,history,library,item,estimate,0
+Horniman Museum,archive,museum,history,archive,item,estimate,0
+Imperial War Museums,museum,museum,history,object,item,estimate,0
+Imperial War Museums,library,museum,history,library,item,estimate,0
+Imperial War Museums,archive,museum,history,archive,item,estimate,0
+National Gallery,museum,gallery,art,object,item,exact,2626
+National Gallery,library,gallery,art,library,item,estimate,0
+National Gallery,archive,gallery,art,archive,item,estimate,0
+National Museums Liverpool,museum,museum,history,object,item,estimate,0
+National Museums Liverpool,library,museum,history,library,item,estimate,0
+National Museums Liverpool,archive,museum,history,archive,item,estimate,0
+National Portrait Gallery,museum,gallery,art,object,item,estimate,0
+National Portrait Gallery,library,gallery,art,library,item,estimate,0
+National Portrait Gallery,archive,gallery,art,archive,item,estimate,0
+Natural History Museum,museum,museum,nature,object,item,estimate,0
+Natural History Museum,library,museum,nature,library,item,estimate,0
+Natural History Museum,archive,museum,nature,archive,item,estimate,0
+Royal Armouries,museum,museum,history,object,item,estimate,0
+Royal Armouries,library,museum,history,library,item,estimate,0
+Royal Armouries,archive,museum,history,archive,item,estimate,0
+Royal Museums Greenwich,museum,museum,history,object,item,estimate,0
+Royal Museums Greenwich,library,museum,history,library,item,estimate,0
+Royal Museums Greenwich,archive,museum,history,archive,item,estimate,0
+Sir John Soane's Museum,museum,museum,history,object,item,estimate,0
+Sir John Soane's Museum,library,museum,history,library,item,estimate,0
+Sir John Soane's Museum,archive,museum,history,archive,item,estimate,0
+Tate Gallery Group,museum,gallery,art,object,item,estimate,0
+Tate Gallery Group,library,gallery,art,library,item,estimate,0
+Tate Gallery Group,archive,gallery,art,archive,item,estimate,0
+The Wallace Collection,museum,museum,art,object,item,exact,5637
+The Wallace Collection,library,museum,art,library,item,estimate,0
+The Wallace Collection,archive,museum,art,archive,item,estimate,0
+British Museum,museum,museum,history,object,item,estimate,8000000
+British Museum,library,museum,history,library,item,estimate,0
+British Museum,archive,museum,history,archive,item,estimate,0

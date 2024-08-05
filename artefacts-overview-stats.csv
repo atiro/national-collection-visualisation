@@ -1,0 +1,40 @@
+institution,sector,type,topic,precision,artefact_count
+Oxford University,university,university,mixed,estimate,22530000
+University of Cambridge,university,university,mixed,estimate,10000000
+Durham University,university,university,mixed,estimate,106000
+University College London,university,university,mixed,estimate,164000
+University of Manchester,university,university,mixed,estimate,4060000
+King's College London,university,university,mixed,estimate,200000
+University of Birmingham,university,university,mixed,estimate,4500000
+Unversity of Warwick,university,university,mixed,estimate,16000
+Manchester Metropolitan Unversity,university,university,mixed,estimate,0
+Swansea University,university,university,mixed,estimate,1700
+University of Brighton,university,university,mixed,estimate,50000
+"SOAS, University of London",university,university,mixed,estimate,60000
+University of Aberdeen,university,university,mixed,estimate,530000
+University of Bristol,university,university,mixed,estimate,100000
+University of Leeds,university,university,mixed,estimate,350000
+University of Leicester,university,university,mixed,estimate,25000
+University of Sheffield,university,university,mixed,estimate,30000
+University of St Andrews,university,university,mixed,estimate,200000
+British Library,library,library,mixed,estimate,33810000
+Chetham's Library,library,library,mixed,estimate,121041
+Glasgow Woman's Library,library,library,mixed,estimate,0
+Lambeth Palace Library,library,library,theology,estimate,186200
+National Library of Wales,library,library,mixed,estimate,7540000
+National Library of Scotland,library,library,mixed,estimate,37000000
+Victoria & Albert Museum,dcms,museum,art,estimate,2800000
+Science Museum Group,dcms,museum,science,estimate,7360793
+Museum of the Home,dcms,museum,history,estimate,40000
+Horniman Museum,dcms,museum,history,estimate,350000
+Imperial War Museums,dcms,museum,history,estimate,1000000
+National Gallery,dcms,gallery,art,estimate,2626
+National Museums Liverpool,dcms,museum,history,estimate,4000000
+National Portrait Gallery,dcms,gallery,art,estimate,350000
+Natural History Museum,dcms,museum,nature,estimate,80000000
+Royal Armouries,dcms,museum,history,estimate,70000
+Royal Museums Greenwich,dcms,museum,history,estimate,3000000
+Sir John Soane's Museum,dcms,museum,history,estimate,52000
+Tate Gallery Group,dcms,gallery,art,estimate,70000
+The Wallace Collection,dcms,museum,art,estimate,5637
+British Museum,dcms,museum,history,estimate,8000000
