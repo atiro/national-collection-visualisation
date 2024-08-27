@@ -9,7 +9,7 @@ Bangor University,archive,university,mixed,archive,item,estimate,0
 University of York,archive,university,mixed,archive,item,estimate,132370
 University of York,museum,university,mixed,object,item,estimate,0
 University of York,library,university,mixed,library,item,estimate,0
-University of Cambridge,museum,university,mixed,object,item,estimate,0
+University of Cambridge,museum,university,mixed,object,item,estimate,7000
 University of Cambridge,library,university,mixed,library,item,estimate,10000000
 University of Cambridge,archive,university,mixed,archive,item,estimate,0
 Cardiff University,library,university,mixed,library,item,estimate,1100000
@@ -21,7 +21,7 @@ Durham University,archive,university,mixed,archive,item,estimate,0
 University College London,museum,university,mixed,object,item,estimate,164000
 University College London,library,university,mixed,library,item,estimate,0
 University College London,archive,university,mixed,archive,item,estimate,0
-University of Manchester,museum,university,mixed,object,item,estimate,60000
+University of Manchester,museum,university,mixed,object,item,estimate,4560000
 University of Manchester,library,university,mixed,library,item,estimate,4000000
 University of Manchester,archive,university,mixed,archive,item,estimate,0
 King's College London,museum,university,mixed,object,item,estimate,0
@@ -66,9 +66,18 @@ University of Sheffield,archive,university,mixed,archive,item,estimate,0
 University of St Andrews,museum,university,mixed,object,item,estimate,0
 University of St Andrews,library,university,mixed,library,item,estimate,200000
 University of St Andrews,archive,university,mixed,archive,item,estimate,0
+Glasgow School of Art,museum,university,mixed,object,item,estimate,0
+Glasgow School of Art,library,university,mixed,library,item,estimate,0
+Glasgow School of Art,archive,university,mixed,archive,item,estimate,0
+Royal College of Music London,museum,university,music,object,item,estimate,0
+Royal College of Music London,library,university,music,library,item,estimate,0
+Royal College of Music London,archive,university,music,archive,item,estimate,0
+Royal College of Surgeons,museum,university,medicine,object,item,estimate,3500
+Royal College of Surgeons,library,university,medicine,library,item,estimate,0
+Royal College of Surgeons,archive,university,medicine,archive,item,estimate,0
 British Library,museum,library,mixed,object,item,estimate,0
 British Library,library,library,mixed,library,item,estimate,33810000
-British Library,archive,library,mixed,archive,item,estimate,0
+British Library,archive,library,mixed,archive,item,estimate,12000000
 Chetham's Library,museum,library,mixed,object,item,estimate,0
 Chetham's Library,library,library,mixed,library,item,estimate,121041
 Chetham's Library,archive,library,mixed,archive,item,estimate,0
@@ -84,6 +93,323 @@ National Library of Wales,archive,library,mixed,archive,item,estimate,0
 National Library of Scotland,museum,library,mixed,object,item,estimate,0
 National Library of Scotland,library,library,mixed,library,item,estimate,0
 National Library of Scotland,archive,library,mixed,archive,item,estimate,0
+Amgueddfa Cymru (National Museum Wales),museum,museum,mixed,object,item,estimate,5054426
+Amgueddfa Cymru (National Museum Wales),library,museum,mixed,library,item,estimate,265159
+Amgueddfa Cymru (National Museum Wales),archive,museum,mixed,archive,item,estimate,0
+Historic Royal Palaces,museum,building,mixed,object,item,estimate,60000
+Historic Royal Palaces,library,building,mixed,library,item,estimate,0
+Historic Royal Palaces,archive,building,mixed,archive,item,estimate,0
+National Football Museum,museum,museum,mixed,object,item,estimate,0
+National Football Museum,library,museum,mixed,library,item,estimate,0
+National Football Museum,archive,museum,mixed,archive,item,estimate,0
+National Justice Museum,museum,museum,mixed,object,item,estimate,0
+National Justice Museum,library,museum,mixed,library,item,estimate,0
+National Justice Museum,archive,museum,mixed,archive,item,estimate,0
+National Mining Museum Scotland,museum,museum,industry,object,item,estimate,0
+National Mining Museum Scotland,library,museum,industry,library,item,estimate,0
+National Mining Museum Scotland,archive,museum,industry,archive,item,estimate,0
+National Museum of the Royal Navy,museum,museum,maritime,object,item,estimate,0
+National Museum of the Royal Navy,library,museum,maritime,library,item,estimate,0
+National Museum of the Royal Navy,archive,museum,maritime,archive,item,estimate,0
+National Museums NI,museum,museum,mixed,object,item,estimate,0
+National Museums NI,library,museum,mixed,library,item,estimate,0
+National Museums NI,archive,museum,mixed,archive,item,estimate,0
+National Museums Scotland,museum,museum,mixed,object,item,estimate,12000000
+National Museums Scotland,library,museum,mixed,library,item,estimate,0
+National Museums Scotland,archive,museum,mixed,archive,item,estimate,0
+National Tramway Museum,museum,museum,mixed,object,item,estimate,46690
+National Tramway Museum,library,museum,mixed,library,item,estimate,0
+National Tramway Museum,archive,museum,mixed,archive,item,estimate,0
+National Trust,museum,building,art,object,item,estimate,0
+National Trust,library,building,art,library,item,estimate,0
+National Trust,archive,building,art,archive,item,estimate,0
+National Trust for Scotland,museum,building,art,object,item,estimate,0
+National Trust for Scotland,library,building,art,library,item,estimate,0
+National Trust for Scotland,archive,building,art,archive,item,estimate,0
+National Waterways Museum,museum,building,transport,object,item,estimate,0
+National Waterways Museum,library,building,transport,library,item,estimate,0
+National Waterways Museum,archive,building,transport,archive,item,estimate,0
+Government Art Collection,museum,museum,art,object,item,estimate,0
+Government Art Collection,library,museum,art,library,item,estimate,0
+Government Art Collection,archive,museum,art,archive,item,estimate,0
+Historic England Archive,archive,archive,heritage,archive,item,estimate,12000000
+Historic England Archive,museum,archive,heritage,object,item,estimate,0
+Historic England Archive,library,archive,heritage,library,item,estimate,0
+Historic Environment,archive,archive,heritage,archive,item,estimate,12000000
+Historic Environment,museum,archive,heritage,object,item,estimate,0
+Historic Environment,library,archive,heritage,library,item,estimate,0
+Historic Environment Scotland,museum,museum,heritage,object,item,estimate,41000
+Historic Environment Scotland,library,museum,heritage,library,item,estimate,0
+Historic Environment Scotland,archive,museum,heritage,archive,item,estimate,0
+People's History Museum,museum,museum,social,object,item,estimate,5680
+People's History Museum,library,museum,social,library,item,estimate,0
+People's History Museum,archive,museum,social,archive,item,estimate,0
+Portable Antiquities Scheme,museum,museum,archaeology,object,item,estimate,1751232
+Portable Antiquities Scheme,library,museum,archaeology,library,item,estimate,0
+Portable Antiquities Scheme,archive,museum,archaeology,archive,item,estimate,0
+Royal Air Force Museum,museum,museum,military,object,item,estimate,0
+Royal Air Force Museum,library,museum,military,library,item,estimate,0
+Royal Air Force Museum,archive,museum,military,archive,item,estimate,0
+Royal Botanic Gardens Kew,museum,museum,nature,object,item,estimate,7000000
+Royal Botanic Gardens Kew,library,museum,nature,library,item,estimate,0
+Royal Botanic Gardens Kew,archive,museum,nature,archive,item,estimate,0
+Royal Collection,museum,museum,nature,object,item,estimate,1000000
+Royal Collection,library,museum,nature,library,item,estimate,0
+Royal Collection,archive,museum,nature,archive,item,estimate,0
+Gwynedd Archive Services,museum,archive,mixed,object,item,estimate,0
+Gwynedd Archive Services,library,archive,mixed,library,item,estimate,0
+Gwynedd Archive Services,archive,archive,mixed,archive,item,estimate,0
+Hampshire Archives and Local Studies,museum,archive,mixed,object,item,estimate,0
+Hampshire Archives and Local Studies,library,archive,mixed,library,item,estimate,0
+Hampshire Archives and Local Studies,archive,archive,mixed,archive,item,estimate,0
+Kresen Kernow,archive,archive,mixed,archive,item,estimate,1000000
+Kresen Kernow,museum,archive,mixed,object,item,estimate,0
+Kresen Kernow,library,archive,mixed,library,item,estimate,0
+North East Wales Archives,museum,archive,mixed,object,item,estimate,0
+North East Wales Archives,library,archive,mixed,library,item,estimate,0
+North East Wales Archives,archive,archive,mixed,archive,item,estimate,0
+Public Record Office Northern Ireland,museum,archive,mixed,object,item,estimate,0
+Public Record Office Northern Ireland,library,archive,mixed,library,item,estimate,0
+Public Record Office Northern Ireland,archive,archive,mixed,archive,item,estimate,0
+Royal Commision on Ancient and Historic Monuments of Wales,archive,archive,archeology,archive,item,estimate,2000000
+Royal Commision on Ancient and Historic Monuments of Wales,museum,archive,archeology,object,item,estimate,0
+Royal Commision on Ancient and Historic Monuments of Wales,library,archive,archeology,library,item,estimate,0
+Staffordshire Archive and Heritage,museum,mixed,mixed,object,item,estimate,0
+Staffordshire Archive and Heritage,library,mixed,mixed,library,item,estimate,0
+Staffordshire Archive and Heritage,archive,mixed,mixed,archive,item,estimate,0
+Tyne & Wear Archives Catalogue,archive,archive,mixed,archive,collection,estimate,75980
+Tyne & Wear Archives Catalogue,museum,archive,mixed,object,item,estimate,0
+Tyne & Wear Archives Catalogue,library,archive,mixed,library,item,estimate,0
+Tyne & Wear Archives Catalogue,archive,archive,mixed,archive,item,estimate,0
+West Glamorgan Archive Service,museum,archive,mixed,object,item,estimate,0
+West Glamorgan Archive Service,library,archive,mixed,library,item,estimate,0
+West Glamorgan Archive Service,archive,archive,mixed,archive,item,estimate,0
+Yorkshire Film Archive,museum,archive,media,object,item,estimate,0
+Yorkshire Film Archive,library,archive,media,library,item,estimate,0
+Yorkshire Film Archive,archive,archive,media,archive,item,estimate,0
+Courtauld Gallery,museum,gallery,art,object,item,estimate,0
+Courtauld Gallery,library,gallery,art,library,item,estimate,0
+Courtauld Gallery,archive,gallery,art,archive,item,estimate,0
+Dulwich Picture Gallery,museum,gallery,art,object,item,estimate,0
+Dulwich Picture Gallery,library,gallery,art,library,item,estimate,0
+Dulwich Picture Gallery,archive,gallery,art,archive,item,estimate,0
+Manchester Art Gallery,museum,gallery,art,object,item,estimate,0
+Manchester Art Gallery,library,gallery,art,library,item,estimate,0
+Manchester Art Gallery,archive,gallery,art,archive,item,estimate,0
+National Galleries Scotland,museum,gallery,art,object,item,estimate,0
+National Galleries Scotland,library,gallery,art,library,item,estimate,0
+National Galleries Scotland,archive,gallery,art,archive,item,estimate,0
+Royal Academy of Arts,museum,gallery,art,object,item,estimate,31985
+Royal Academy of Arts,library,gallery,art,library,item,estimate,0
+Royal Academy of Arts,archive,gallery,art,archive,item,estimate,0
+William Morris Gallery,museum,gallery,art,object,item,estimate,10000
+William Morris Gallery,library,gallery,art,library,item,estimate,0
+William Morris Gallery,archive,gallery,art,archive,item,estimate,0
+Bowes Museum,museum,museum,art,object,item,estimate,0
+Bowes Museum,library,museum,art,library,item,estimate,0
+Bowes Museum,archive,museum,art,archive,item,estimate,0
+Britten Pears,museum,museum,art,object,item,estimate,0
+Britten Pears,library,museum,art,library,item,estimate,0
+Britten Pears,archive,museum,art,archive,item,estimate,0
+Chatham Historic Dockyard,museum,building,maritime,object,item,estimate,0
+Chatham Historic Dockyard,library,building,maritime,library,item,estimate,0
+Chatham Historic Dockyard,archive,building,maritime,archive,item,estimate,0
+Colchester and Ipswich Museums,museum,museum,mixed,object,item,estimate,0
+Colchester and Ipswich Museums,library,museum,mixed,library,item,estimate,0
+Colchester and Ipswich Museums,archive,museum,mixed,archive,item,estimate,0
+English Heritage Trust,museum,building,history,object,item,estimate,0
+English Heritage Trust,library,building,history,library,item,estimate,0
+English Heritage Trust,archive,building,history,archive,item,estimate,0
+Gordon Highlanders Museum,museum,museum,military,object,item,estimate,0
+Gordon Highlanders Museum,library,museum,military,library,item,estimate,0
+Gordon Highlanders Museum,archive,museum,military,archive,item,estimate,0
+Ironbridge Gorge Museum Trust,museum,museum,industry,object,item,estimate,0
+Ironbridge Gorge Museum Trust,library,museum,industry,library,item,estimate,0
+Ironbridge Gorge Museum Trust,archive,museum,industry,archive,item,estimate,0
+Jewish Museum London,museum,museum,social,object,item,estimate,0
+Jewish Museum London,library,museum,social,library,item,estimate,0
+Jewish Museum London,archive,museum,social,archive,item,estimate,0
+London Transport Museum,museum,museum,transport,object,item,estimate,0
+London Transport Museum,library,museum,transport,library,item,estimate,0
+London Transport Museum,archive,museum,transport,archive,item,estimate,0
+Manchester Jewish Museum,museum,museum,social,object,item,estimate,31000
+Manchester Jewish Museum,library,museum,social,library,item,estimate,0
+Manchester Jewish Museum,archive,museum,social,archive,item,estimate,0
+Mary Rose Trust,museum,museum,maritime,object,item,estimate,19000
+Mary Rose Trust,library,museum,maritime,library,item,estimate,0
+Mary Rose Trust,archive,museum,maritime,archive,item,estimate,0
+Media Archive for Central England (MACE),museum,archive,media,object,item,estimate,0
+Media Archive for Central England (MACE),library,archive,media,library,item,estimate,0
+Media Archive for Central England (MACE),archive,archive,media,archive,item,estimate,0
+Food Museum,museum,museum,social,object,item,estimate,40000
+Food Museum,library,museum,social,library,item,estimate,0
+Food Museum,archive,museum,social,archive,item,estimate,0
+Museum of Freemasonry,museum,museum,social,object,item,estimate,0
+Museum of Freemasonry,library,museum,social,library,item,estimate,90000
+Museum of Freemasonry,archive,museum,social,archive,item,estimate,0
+Museum of Lead Mining,museum,museum,industry,object,item,estimate,0
+Museum of Lead Mining,library,museum,industry,library,item,estimate,2572
+Museum of Lead Mining,archive,museum,industry,archive,item,estimate,0
+Museum of Scottish Railways,museum,museum,industry,object,item,estimate,0
+Museum of Scottish Railways,library,museum,industry,library,item,estimate,0
+Museum of Scottish Railways,archive,museum,industry,archive,item,estimate,0
+Paxton Trust,museum,building,art,object,item,estimate,0
+Paxton Trust,library,building,art,library,item,estimate,0
+Paxton Trust,archive,building,art,archive,item,estimate,0
+Pier Arts Centre,museum,gallery,art,object,item,estimate,180
+Pier Arts Centre,library,gallery,art,library,item,estimate,0
+Pier Arts Centre,archive,gallery,art,archive,item,estimate,0
+Postal Museum,museum,museum,social,object,item,estimate,60000
+Postal Museum,library,museum,social,library,item,estimate,0
+Postal Museum,archive,museum,social,archive,item,estimate,0
+Royal Artillery Museum,museum,museum,military,object,item,estimate,0
+Royal Artillery Museum,library,museum,military,library,item,estimate,30000
+Royal Artillery Museum,archive,museum,military,archive,item,estimate,0
+Royal Engineers Museum,museum,museum,military,object,item,estimate,0
+Royal Engineers Museum,library,museum,military,library,item,estimate,0
+Royal Engineers Museum,archive,museum,military,archive,item,estimate,0
+Royal Scottish Academy of Art & Architecture,museum,museum,art,object,item,estimate,9000
+Royal Scottish Academy of Art & Architecture,library,museum,art,library,item,estimate,0
+Royal Scottish Academy of Art & Architecture,archive,museum,art,archive,item,estimate,0
+Scottish Fisheries Museum,museum,museum,maritime,object,item,estimate,0
+Scottish Fisheries Museum,library,museum,maritime,library,item,estimate,0
+Scottish Fisheries Museum,archive,museum,maritime,archive,item,estimate,0
+Thackray Museum of Medicine,museum,museum,medicine,object,item,estimate,0
+Thackray Museum of Medicine,library,museum,medicine,library,item,estimate,0
+Thackray Museum of Medicine,archive,museum,medicine,archive,item,estimate,0
+Tuillie House Museum and Art Gallery,museum,museum,mixed,object,item,estimate,0
+Tuillie House Museum and Art Gallery,library,museum,mixed,library,item,estimate,0
+Tuillie House Museum and Art Gallery,archive,museum,mixed,archive,item,estimate,0
+Watts Gallery,museum,gallery,art,object,item,estimate,0
+Watts Gallery,library,gallery,art,library,item,estimate,0
+Watts Gallery,archive,gallery,art,archive,item,estimate,0
+Wellcome Collection,museum,museum,medicine,object,item,estimate,250000
+Wellcome Collection,library,museum,medicine,library,item,estimate,2000000
+Wellcome Collection,archive,museum,medicine,archive,item,estimate,0
+Wordsworth Museum Collection,museum,museum,literature,object,item,estimate,0
+Wordsworth Museum Collection,library,museum,literature,library,item,estimate,0
+Wordsworth Museum Collection,archive,museum,literature,archive,item,estimate,0
+"Aberdeen Archives, Gallery and Museums",museum,mixed,mixed,object,item,estimate,0
+"Aberdeen Archives, Gallery and Museums",library,mixed,mixed,library,item,estimate,0
+"Aberdeen Archives, Gallery and Museums",archive,mixed,mixed,archive,item,estimate,0
+Aberdeenshire Council Museums,museum,museum,mixed,object,item,estimate,0
+Aberdeenshire Council Museums,library,museum,mixed,library,item,estimate,0
+Aberdeenshire Council Museums,archive,museum,mixed,archive,item,estimate,0
+Barnsley Museums,museum,museum,mixed,object,item,estimate,0
+Barnsley Museums,library,museum,mixed,library,item,estimate,0
+Barnsley Museums,archive,museum,mixed,archive,item,estimate,0
+Birmingham Museums Trust,museum,museum,art,object,item,estimate,800000
+Birmingham Museums Trust,library,museum,art,library,item,estimate,0
+Birmingham Museums Trust,archive,museum,art,archive,item,estimate,0
+Black Country Living Museum,museum,museum,history,object,item,estimate,80000
+Black Country Living Museum,library,museum,history,library,item,estimate,0
+Black Country Living Museum,archive,museum,history,archive,item,estimate,0
+The Box Plymouth,museum,mixed,history,object,item,estimate,0
+The Box Plymouth,library,mixed,history,library,item,estimate,0
+The Box Plymouth,archive,mixed,history,archive,item,estimate,0
+Bradford District Museums & Galleries,museum,museum,mixed,object,item,estimate,387837
+Bradford District Museums & Galleries,library,museum,mixed,library,item,estimate,0
+Bradford District Museums & Galleries,archive,museum,mixed,archive,item,estimate,450000
+Bristol Museums,museum,museum,mixed,object,item,estimate,0
+Bristol Museums,library,museum,mixed,library,item,estimate,0
+Bristol Museums,archive,museum,mixed,archive,item,estimate,0
+Culture Coventry,museum,museum,mixed,object,item,estimate,670
+Culture Coventry,library,museum,mixed,library,item,estimate,0
+Culture Coventry,archive,museum,mixed,archive,item,estimate,1000000
+Culture Perth and Kinross,museum,museum,mixed,object,item,estimate,0
+Culture Perth and Kinross,library,museum,mixed,library,item,estimate,0
+Culture Perth and Kinross,archive,museum,mixed,archive,item,estimate,0
+Culture Trust Luton,museum,museum,mixed,object,item,estimate,5051
+Culture Trust Luton,library,museum,mixed,library,item,estimate,0
+Culture Trust Luton,archive,museum,mixed,archive,item,estimate,1100000
+Derby Museums,museum,museum,mixed,object,item,estimate,0
+Derby Museums,library,museum,mixed,library,item,estimate,0
+Derby Museums,archive,museum,mixed,archive,item,estimate,0
+Colchester and Ipswich Museums,museum,museum,mixed,object,item,estimate,0
+Colchester and Ipswich Museums,library,museum,mixed,library,item,estimate,0
+Colchester and Ipswich Museums,archive,museum,mixed,archive,item,estimate,0
+Dundee Heritage Trust,museum,museum,mixed,object,item,estimate,0
+Dundee Heritage Trust,library,museum,mixed,library,item,estimate,0
+Dundee Heritage Trust,archive,museum,mixed,archive,item,estimate,0
+Elgin Museum,museum,museum,mixed,object,item,estimate,36000
+Elgin Museum,library,museum,mixed,library,item,estimate,0
+Elgin Museum,archive,museum,mixed,archive,item,estimate,0
+Glasgow Museums,museum,museum,mixed,object,item,estimate,1000000
+Glasgow Museums,library,museum,mixed,library,item,estimate,0
+Glasgow Museums,archive,museum,mixed,archive,item,estimate,0
+Heritage Doncaster,museum,museum,mixed,object,item,estimate,405000
+Heritage Doncaster,library,museum,mixed,library,item,estimate,0
+Heritage Doncaster,archive,museum,mixed,archive,item,estimate,0
+Highland Folk Museum,museum,museum,social,object,item,estimate,10000
+Highland Folk Museum,library,museum,social,library,item,estimate,0
+Highland Folk Museum,archive,museum,social,archive,item,estimate,0
+Leeds Museums & Galleries,museum,museum,mixed,object,item,estimate,1300000
+Leeds Museums & Galleries,library,museum,mixed,library,item,estimate,0
+Leeds Museums & Galleries,archive,museum,mixed,archive,item,estimate,0
+Leicester Museums,museum,museum,mixed,object,item,estimate,1500000
+Leicester Museums,library,museum,mixed,library,item,estimate,0
+Leicester Museums,archive,museum,mixed,archive,item,estimate,0
+Manchester Art Gallery,museum,gallery,art,object,item,estimate,50000
+Manchester Art Gallery,library,gallery,art,library,item,estimate,0
+Manchester Art Gallery,archive,gallery,art,archive,item,estimate,0
+Edinburgh Museums,museum,museum,mixed,object,item,estimate,220000
+Edinburgh Museums,library,museum,mixed,library,item,estimate,0
+Edinburgh Museums,archive,museum,mixed,archive,item,estimate,0
+Museums Northhumberland,museum,museum,mixed,object,item,estimate,25000
+Museums Northhumberland,library,museum,mixed,library,item,estimate,0
+Museums Northhumberland,archive,museum,mixed,archive,item,estimate,0
+Northhampton Museums,museum,museum,mixed,object,item,estimate,44024
+Northhampton Museums,library,museum,mixed,library,item,estimate,0
+Northhampton Museums,archive,museum,mixed,archive,item,estimate,0
+Northern Ireland Screen,archive,archive,media,archive,collection,estimate,47
+Northern Ireland Screen,museum,archive,media,object,item,estimate,0
+Northern Ireland Screen,library,archive,media,library,item,estimate,0
+Northern Ireland Screen,archive,archive,media,archive,item,estimate,0
+Orkney Museums,museum,museum,mixed,object,item,estimate,0
+Orkney Museums,library,museum,mixed,library,item,estimate,0
+Orkney Museums,archive,museum,mixed,archive,item,estimate,0
+Poole Museums,museum,museum,mixed,object,item,estimate,50000
+Poole Museums,library,museum,mixed,library,item,estimate,0
+Poole Museums,archive,museum,mixed,archive,item,estimate,0
+Potteries Museum and Art Gallery,museum,museum,art,object,item,estimate,1000000
+Potteries Museum and Art Gallery,library,museum,art,library,item,estimate,0
+Potteries Museum and Art Gallery,archive,museum,art,archive,item,estimate,0
+Preston Park Museum & Grounds,museum,museum,social,object,item,estimate,100000
+Preston Park Museum & Grounds,library,museum,social,library,item,estimate,0
+Preston Park Museum & Grounds,archive,museum,social,archive,item,estimate,0
+Ripon Museums,museum,museum,social,object,item,estimate,9000
+Ripon Museums,library,museum,social,library,item,estimate,0
+Ripon Museums,archive,museum,social,archive,item,estimate,0
+Royal Albert Memorial Museum,museum,museum,mixed,object,item,estimate,0
+Royal Albert Memorial Museum,library,museum,mixed,library,item,estimate,0
+Royal Albert Memorial Museum,archive,museum,mixed,archive,item,estimate,0
+Salisbury Museum,museum,museum,mixed,object,item,estimate,100000
+Salisbury Museum,library,museum,mixed,library,item,estimate,0
+Salisbury Museum,archive,museum,mixed,archive,item,estimate,0
+Sheffield Museums,museum,museum,mixed,object,item,estimate,0
+Sheffield Museums,library,museum,mixed,library,item,estimate,0
+Sheffield Museums,archive,museum,mixed,archive,item,estimate,0
+St Helens Borough Council,museum,archive,mixed,object,item,estimate,0
+St Helens Borough Council,library,archive,mixed,library,item,estimate,0
+St Helens Borough Council,archive,archive,mixed,archive,item,estimate,0
+Sunderland Museum & Winter Gardens' Collection,museum,museum,mixed,object,item,estimate,0
+Sunderland Museum & Winter Gardens' Collection,library,museum,mixed,library,item,estimate,0
+Sunderland Museum & Winter Gardens' Collection,archive,museum,mixed,archive,item,estimate,0
+Tyne & Wear Museums,museum,museum,mixed,object,item,estimate,0
+Tyne & Wear Museums,library,museum,mixed,library,item,estimate,0
+Tyne & Wear Museums,archive,museum,mixed,archive,item,estimate,0
+Wakefield Museums and Castles Collections,museum,museum,mixed,object,item,estimate,111000
+Wakefield Museums and Castles Collections,library,museum,mixed,library,item,estimate,0
+Wakefield Museums and Castles Collections,archive,museum,mixed,archive,item,estimate,0
+Weald and Downland Living Museum,museum,museum,mixed,object,item,estimate,15000
+Weald and Downland Living Museum,library,museum,mixed,library,item,estimate,0
+Weald and Downland Living Museum,archive,museum,mixed,archive,item,estimate,0
+Wiltshire Museum,museum,museum,mixed,object,item,estimate,0
+Wiltshire Museum,library,museum,mixed,library,item,estimate,0
+Wiltshire Museum,archive,museum,mixed,archive,item,estimate,0
+York Museums Trust,museum,museum,mixed,object,item,estimate,0
+York Museums Trust,library,museum,mixed,library,item,estimate,0
+York Museums Trust,archive,museum,mixed,archive,item,estimate,0
 Victoria & Albert Museum,museum,museum,art,object,item,estimate,1691513
 Victoria & Albert Museum,library,museum,art,library,item,estimate,1130157
 Victoria & Albert Museum,archive,museum,art,archive,item,estimate,0

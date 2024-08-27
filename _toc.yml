@@ -8,18 +8,30 @@ parts:
     chapters:
       - file: general-overview
       - file: general-institution-overview
-      - file: artefacts-overview
-      - file: cataloguing-overview
-      - file: records-overview
       - file: records-subcollection-overview
+      - file: artefacts-overview
+      - file: artefacts-subcollection-overview
+      - file: records-overview
+      - file: cataloguing-overview
+      - file: digitised-overview
 #  - caption: Overview (Progress)
-  - caption: Sector Stats
+#  - caption: Per Overview (Latest)
+  - caption: Sector Overview (Latest)
     chapters:
-      - file: objects-overview
-#    - file: library-overview
-#    - file: archive-overview
+      - file: dcms-institution-overview
+      - file: university-institution-overview
+      - file: library-institution-overview
+      - file: gallery-institution-overview
+      - file: archives-institution-overview
+      - file: regional-institution-overview
+      - file: national-institution-overview
 #  - caption: Topic Stats
 #    chapters:
 #    - file: objects-overview
 #    - file: library-overview
 #    - file: archive-overview
+  - caption: Per Artefact Type Overview (Latest)
+    chapters:
+      - file: museum-objects-overview
+      - file: library-items-overview
+      - file: archive-items-overview

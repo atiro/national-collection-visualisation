@@ -3,8 +3,8 @@ Oxford University,library,8021011
 Oxford University,object,1052444
 Oxford University,archive,0
 University of Cambridge,library,0
-University of Cambridge,object,0
-University of Cambridge,archive,0
+University of Cambridge,object,7148
+University of Cambridge,archive,6979
 Durham University,library,0
 Durham University,object,33234
 Durham University,archive,0
@@ -44,9 +44,6 @@ University of Bristol,archive,0
 University of Leeds,library,0
 University of Leeds,object,0
 University of Leeds,archive,0
-University of Leicester,library,0
-University of Leicester,object,0
-University of Leicester,archive,0
 University of Reading,archive,186216
 University of Reading,library,69841
 University of Sheffield,library,0
@@ -55,6 +52,9 @@ University of Sheffield,archive,0
 University of St Andrews,library,0
 University of St Andrews,object,0
 University of St Andrews,archive,0
+Royal College of Surgeons,library,0
+Royal College of Surgeons,object,0
+Royal College of Surgeons,archive,0
 British Library,library,0
 British Library,object,0
 British Library,archive,0
@@ -67,9 +67,98 @@ Glasgow Woman's Library,archive,0
 Lambeth Palace Library,library,15000
 Lambeth Palace Library,object,0
 Lambeth Palace Library,archive,0
-Victoria & Albert Museum,object,1281326
+National Museum of the Royal Navy,object,195690
+National Museum of the Royal Navy,library,12828
+National Museums Scotland,object,820000
+National Waterways Museum,object,4574
+National Waterways Museum,archive,53195
+Government Art Collection,object,15247
+Historic England Archive,archive,1000000
+Historic Environment,archive,1000000
+People's History Museum,object,5680
+Portable Antiquities Scheme,object,1133397
+Royal Air Force Museum,object,1344
+Royal Air Force Museum,archive,88
+Royal Air Force Museum,library,26
+Royal Botanic Gardens Kew,object,5700000
+Royal Collection,object,289595
+Gwynedd Archive Services,archive,12000
+Hampshire Archives and Local Studies,archive,1000000
+Kresen Kernow,archive,614909
+North East Wales Archives,archive,338969
+Public Record Office Northern Ireland,archive,1000000
+Staffordshire Archive and Heritage,library,139389
+Staffordshire Archive and Heritage,object,57017
+Staffordshire Archive and Heritage,archive,503623
+Tyne & Wear Archives Catalogue,archive,4602160
+West Glamorgan Archive Service,archive,230000
+Yorkshire Film Archive,archive,8483
+Courtauld Gallery,object,33501
+Dulwich Picture Gallery,object,33501
+Royal Academy of Arts,object,18421
+Royal Academy of Arts,archive,24768
+Chatham Historic Dockyard,object,1548
+Chatham Historic Dockyard,archive,2058
+Chatham Historic Dockyard,library,1548
+Colchester and Ipswich Museums,object,220000
+London Transport Museum,object,271610
+Food Museum,object,32040
+Museum of Freemasonry,library,0
+Museum of Freemasonry,object,0
+Museum of Freemasonry,archive,0
+Museum of Lead Mining,library,0
+Museum of Lead Mining,object,0
+Museum of Lead Mining,archive,0
+Museum of Scottish Railways,library,0
+Museum of Scottish Railways,object,0
+Museum of Scottish Railways,archive,0
+Royal Artillery Museum,library,0
+Royal Artillery Museum,object,0
+Royal Artillery Museum,archive,0
+Watts Gallery,object,7756
+Watts Gallery,archive,668
+Watts Gallery,library,4117
+Wellcome Collection,library,0
+Wellcome Collection,object,0
+Wellcome Collection,archive,0
+"Aberdeen Archives, Gallery and Museums",object,151529
+"Aberdeen Archives, Gallery and Museums",archive,95798
+Black Country Living Museum,object,4903
+The Box Plymouth,object,21691
+Bradford District Museums & Galleries,library,0
+Bradford District Museums & Galleries,object,0
+Bradford District Museums & Galleries,archive,21878
+Culture Coventry,object,109173
+Culture Coventry,archive,336877
+Culture Trust Luton,library,0
+Culture Trust Luton,object,0
+Culture Trust Luton,archive,0
+Dundee Heritage Trust,library,0
+Dundee Heritage Trust,object,8592
+Dundee Heritage Trust,archive,0
+Heritage Doncaster,library,0
+Heritage Doncaster,object,0
+Heritage Doncaster,archive,0
+Northhampton Museums,library,0
+Northhampton Museums,object,0
+Northhampton Museums,archive,0
+Poole Museums,object,1489
+Potteries Museum and Art Gallery,object,1489
+Ripon Museums,object,15
+Ripon Museums,archive,5
+Royal Albert Memorial Museum,object,16000
+Sheffield Museums,object,1000
+St Helens Borough Council,library,0
+St Helens Borough Council,object,0
+St Helens Borough Council,archive,93344
+Tyne & Wear Museums,object,490107
+Wiltshire Museum,object,126410
+York Museums Trust,library,0
+York Museums Trust,object,154354
+York Museums Trust,archive,0
+Victoria & Albert Museum,object,1282171
 Victoria & Albert Museum,library,849000
-Victoria & Albert Museum,archive,157054
+Victoria & Albert Museum,archive,157835
 Museum of the Home,object,12200
 Museum of the Home,library,6290
 Horniman Museum,object,132612

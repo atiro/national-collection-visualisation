@@ -1,9 +1,9 @@
 institution,sector,type,topic,precision,artefact_count
 Oxford University,university,university,mixed,estimate,22530000
-University of Cambridge,university,university,mixed,estimate,10000000
+University of Cambridge,university,university,mixed,estimate,4007000
 Durham University,university,university,mixed,estimate,106000
 University College London,university,university,mixed,estimate,164000
-University of Manchester,university,university,mixed,estimate,4060000
+University of Manchester,university,university,mixed,estimate,8560000
 King's College London,university,university,mixed,estimate,200000
 University of Birmingham,university,university,mixed,estimate,4500000
 Unversity of Warwick,university,university,mixed,estimate,16000
@@ -14,15 +14,98 @@ University of Brighton,university,university,mixed,estimate,50000
 University of Aberdeen,university,university,mixed,estimate,530000
 University of Bristol,university,university,mixed,estimate,100000
 University of Leeds,university,university,mixed,estimate,350000
-University of Leicester,university,university,mixed,estimate,25000
 University of Sheffield,university,university,mixed,estimate,30000
 University of St Andrews,university,university,mixed,estimate,200000
-British Library,library,library,mixed,estimate,33810000
+Royal College of Surgeons,university,university,medicine,estimate,3500
+British Library,library,library,mixed,estimate,45810000
 Chetham's Library,library,library,mixed,estimate,121041
 Glasgow Woman's Library,library,library,mixed,estimate,0
 Lambeth Palace Library,library,library,theology,estimate,186200
 National Library of Wales,library,library,mixed,estimate,7540000
 National Library of Scotland,library,library,mixed,estimate,37000000
+Amgueddfa Cymru (National Museum Wales),national,museum,mixed,estimate,5319585
+Historic Royal Palaces,national,building,mixed,estimate,60000
+National Football Museum,national,museum,mixed,estimate,40000
+National Justice Museum,national,museum,mixed,estimate,40000
+National Mining Museum Scotland,national,museum,industry,estimate,100000
+National Museum of the Royal Navy,national,museum,maritime,estimate,2500000
+National Museums NI,national,museum,mixed,estimate,1400000
+National Museums Scotland,national,museum,mixed,estimate,12000000
+National Tramway Museum,national,museum,mixed,estimate,46690
+National Trust,national,building,art,estimate,1000000
+National Trust for Scotland,national,building,art,estimate,300000
+National Waterways Museum,national,building,transport,estimate,150000
+Government Art Collection,national,museum,art,estimate,15000
+Historic Environment Scotland,national,museum,heritage,estimate,41000
+People's History Museum,national,museum,social,estimate,5680
+Portable Antiquities Scheme,national,museum,archaeology,estimate,1751232
+Royal Air Force Museum,national,museum,military,estimate,1300000
+Royal Botanic Gardens Kew,national,museum,nature,estimate,7000000
+Royal Collection,national,museum,nature,estimate,1000000
+Staffordshire Archive and Heritage,regional,mixed,mixed,estimate,0
+Courtauld Gallery,independent,gallery,art,estimate,33501
+Dulwich Picture Gallery,independent,gallery,art,estimate,600
+Manchester Art Gallery,independent,gallery,art,estimate,46000
+National Galleries Scotland,independent,gallery,art,estimate,120000
+William Morris Gallery,regional,gallery,art,estimate,10000
+Bowes Museum,independent,museum,art,estimate,30000
+Britten Pears,independent,museum,art,estimate,1200
+Chatham Historic Dockyard,independent,building,maritime,estimate,70000
+English Heritage Trust,independent,building,history,estimate,700000
+Gordon Highlanders Museum,independent,museum,military,estimate,40000
+Ironbridge Gorge Museum Trust,independent,museum,industry,estimate,400000
+Jewish Museum London,independent,museum,social,estimate,40000
+London Transport Museum,independent,museum,transport,estimate,500000
+Manchester Jewish Museum,independent,museum,social,estimate,31000
+Mary Rose Trust,independent,museum,maritime,estimate,19000
+Media Archive for Central England (MACE),independent,archive,media,estimate,65000
+Food Museum,independent,museum,social,estimate,40000
+Museum of Freemasonry,independent,museum,social,estimate,90000
+Museum of Lead Mining,independent,museum,industry,estimate,2572
+Museum of Scottish Railways,independent,museum,industry,estimate,50000
+Paxton Trust,independent,building,art,estimate,3754
+Pier Arts Centre,independent,gallery,art,estimate,180
+Postal Museum,independent,museum,social,estimate,60000
+Royal Artillery Museum,independent,museum,military,estimate,30000
+Royal Engineers Museum,independent,museum,military,estimate,1000000
+Royal Scottish Academy of Art & Architecture,independent,museum,art,estimate,9000
+Scottish Fisheries Museum,independent,museum,maritime,estimate,66000
+Thackray Museum of Medicine,regional,museum,medicine,estimate,75000
+Tuillie House Museum and Art Gallery,regional,museum,mixed,estimate,1000000
+Wellcome Collection,independent,museum,medicine,estimate,2250000
+Wordsworth Museum Collection,regional,museum,literature,estimate,68000
+Aberdeenshire Council Museums,regional,museum,mixed,estimate,250000
+Barnsley Museums,regional,museum,mixed,estimate,711400
+Birmingham Museums Trust,regional,museum,art,estimate,800000
+Black Country Living Museum,regional,museum,history,estimate,80000
+Bradford District Museums & Galleries,regional,museum,mixed,estimate,837837
+Bristol Museums,regional,museum,mixed,estimate,2000000
+Culture Coventry,regional,museum,mixed,estimate,1000000
+Culture Perth and Kinross,regional,museum,mixed,estimate,500000
+Culture Trust Luton,regional,museum,mixed,estimate,1105051
+Dundee Heritage Trust,regional,museum,mixed,estimate,0
+Elgin Museum,regional,museum,mixed,estimate,36000
+Glasgow Museums,regional,museum,mixed,estimate,1000000
+Heritage Doncaster,regional,museum,mixed,estimate,406750
+Highland Folk Museum,regional,museum,social,estimate,10000
+Leeds Museums & Galleries,regional,museum,mixed,estimate,1300000
+Leicester Museums,regional,museum,mixed,estimate,1500000
+Manchester Art Gallery,regional,gallery,art,estimate,50000
+Edinburgh Museums,regional,museum,mixed,estimate,220000
+Museums Northhumberland,regional,museum,mixed,estimate,25000
+Northhampton Museums,regional,museum,mixed,estimate,44024
+Orkney Museums,regional,museum,mixed,estimate,100000
+Poole Museums,regional,museum,mixed,estimate,50000
+Potteries Museum and Art Gallery,regional,museum,art,estimate,1000000
+Preston Park Museum & Grounds,regional,museum,social,estimate,100000
+Ripon Museums,regional,museum,social,estimate,9000
+Royal Albert Memorial Museum,regional,museum,mixed,estimate,1000000
+Salisbury Museum,regional,museum,mixed,estimate,100000
+St Helens Borough Council,regional,archive,mixed,estimate,0
+Sunderland Museum & Winter Gardens' Collection,regional,museum,mixed,estimate,108000
+Wakefield Museums and Castles Collections,regional,museum,mixed,estimate,111000
+Weald and Downland Living Museum,regional,museum,mixed,estimate,15000
+York Museums Trust,regional,museum,mixed,estimate,0
 Victoria & Albert Museum,dcms,museum,art,estimate,2800000
 Science Museum Group,dcms,museum,science,estimate,7360793
 Museum of the Home,dcms,museum,history,estimate,40000

@@ -1,54 +1,185 @@
-institution,artefacts,objects,library_items,archive_items,object_records,library_records,archive_records
-Oxford University,1000000,0,20000,5000000,0,0,0
-Bangor University,98,0,0,0,0,0,0
-University of York,132370,0,0,132370,0,0,0
-University of Cambridge,10000000,0,10000000,0,0,0,0
-Cardiff University,1100000,0,1100000,0,0,0,0
-Durham University,106000,36000,70000,0,0,0,0
-University College London,164000,164000,0,0,0,0,0
-University of Manchester,4060000,60000,4000000,0,0,0,0
-King's College London,200000,0,200000,0,0,0,0
-University of Birmingham,4500000,250000,250000,4000000,0,0,0
-London School of Economics,0,0,0,0,0,0,0
-Unversity of Warwick,16000,0,16000,0,0,0,0
-Middlesex University,0,0,0,0,0,0,0
-Manchester Metropolitan Unversity,0,0,0,0,0,0,0
-Queen Mary University of London,0,0,0,0,0,0,0
-Queen's University Belfast,0,0,0,0,0,0,0
-Swansea University,1700,0,1700,0,0,0,0
-"Royal Holloway, Unversity of London",0,0,0,0,0,0,0
-University of Brighton,50000,0,50000,0,0,0,0
-"SOAS, University of London",60000,0,60000,0,0,0,0
-University of Aberdeen,530000,0,530000,0,0,0,0
-University of Bristol,100000,100000,0,0,0,0,0
-University of Edinburgh,0,0,0,0,0,0,0
-University of Exeter,0,0,0,0,0,0,0
-University of Glasgow,0,0,0,0,0,0,0
-University of Leeds,350000,0,350000,0,0,0,0
-University of Leicester,25000,25000,0,0,0,0,0
-University of Nottingham,0,0,0,0,0,0,0
-University of Reading,256057,0,0,0,0,69841,186216
-University of Sheffield,30000,0,30000,0,0,0,0
-University of Southampton,0,0,0,0,0,0,0
-University of St Andrews,200000,0,200000,0,0,0,0
-British Library,33810000,0,33810000,0,0,0,0
-Chetham's Library,121041,0,121041,0,0,0,0
-Glasgow Woman's Library,0,0,0,0,0,0,0
-Lambeth Palace Library,186200,0,186200,0,0,0,0
-National Library of Wales,7540000,0,7540000,0,0,0,0
-National Library of Scotland,37000000,0,0,0,0,0,0
-Victoria & Albert Museum,2800000,1691513,1130157,0,0,0,0
-Science Museum Group,7360793,0,0,0,0,0,0
-Museum of the Home,40000,0,0,0,0,0,0
-Horniman Museum,350000,0,0,0,132612,0,0
-Imperial War Museums,1000000,0,0,0,1737698,0,0
-National Gallery,2626,2626,0,0,2626,0,0
-National Museums Liverpool,4000000,0,0,0,73682,0,0
-National Portrait Gallery,350000,0,0,0,220000,0,0
-Natural History Museum,80000000,0,0,0,0,0,0
-Royal Armouries,70000,0,0,0,65627,69619,130130
-Royal Museums Greenwich,3000000,0,0,0,0,0,0
-Sir John Soane's Museum,52000,0,0,0,57164,6393,0
-Tate Gallery Group,70000,0,0,0,79236,0,807060
-The Wallace Collection,5637,5637,0,0,0,0,0
-British Museum,8000000,8000000,0,0,2000000,0,0
+institution,sector,artefacts,objects,library_items,archive_items,object_records,library_records,archive_records
+Oxford University,university,22530000,0,20000,5000000,0,0,0
+Bangor University,university,98,0,0,0,0,0,0
+University of York,university,132370,0,0,132370,0,0,0
+University of Cambridge,university,4007000,7000,10000000,0,0,0,0
+Cardiff University,university,1100000,0,1100000,0,0,0,0
+Durham University,university,106000,36000,70000,0,0,0,0
+University College London,university,164000,164000,0,0,0,0,0
+University of Manchester,university,8560000,4560000,4000000,0,0,0,0
+King's College London,university,200000,0,200000,0,0,0,0
+University of Birmingham,university,4500000,250000,250000,4000000,0,0,0
+London School of Economics,university,0,0,0,0,0,0,0
+Unversity of Warwick,university,16000,0,16000,0,0,0,0
+Middlesex University,university,0,0,0,0,0,0,0
+Manchester Metropolitan Unversity,university,0,0,0,0,0,0,0
+Queen Mary University of London,university,0,0,0,0,0,0,0
+Queen's University Belfast,university,0,0,0,0,0,0,0
+Swansea University,university,1700,0,1700,0,0,0,0
+"Royal Holloway, Unversity of London",university,0,0,0,0,0,0,0
+University of Brighton,university,50000,0,50000,0,0,0,0
+"SOAS, University of London",university,60000,0,60000,0,0,0,0
+University of Aberdeen,university,530000,0,530000,0,0,0,0
+University of Bristol,university,100000,100000,0,0,0,0,0
+University of Edinburgh,university,0,0,0,0,0,0,0
+University of Exeter,university,0,0,0,0,0,0,0
+University of Glasgow,university,0,0,0,0,0,0,0
+University of Leeds,university,350000,0,350000,0,0,0,0
+University of Leicester,university,0,25000,0,0,0,0,0
+University of Nottingham,university,0,0,0,0,0,0,0
+University of Reading,university,256057,0,0,0,0,69841,186216
+University of Sheffield,university,30000,0,30000,0,0,0,0
+University of Southampton,university,0,0,0,0,0,0,0
+University of St Andrews,university,200000,0,200000,0,0,0,0
+Glasgow School of Art,university,0,0,0,0,0,0,0
+LSE Library,university,0,0,0,0,0,0,0
+Royal College of Music London,university,0,0,0,0,0,0,0
+Royal College of Surgeons,university,3500,3500,0,0,0,0,0
+British Library,library,45810000,0,33810000,12000000,0,0,0
+Chetham's Library,library,121041,0,121041,0,0,0,0
+Glasgow Woman's Library,library,0,0,0,0,0,0,0
+Lambeth Palace Library,library,186200,0,186200,0,0,0,0
+National Library of Wales,library,7540000,0,7540000,0,0,0,0
+National Library of Scotland,library,37000000,0,0,0,0,0,0
+Amgueddfa Cymru (National Museum Wales),national,0,5054426,265159,0,0,0,0
+Historic Royal Palaces,national,60000,60000,0,0,0,0,0
+National Football Museum,national,40000,0,0,0,0,0,0
+National Holocaust Centre and Museum,national,0,0,0,0,0,0,0
+National Justice Museum,national,40000,0,0,0,0,0,0
+National Mining Museum Scotland,national,100000,0,0,0,0,0,0
+National Museum of the Royal Navy,national,2500000,0,0,0,195690,12828,0
+National Museums NI,national,1400000,0,0,0,0,0,0
+National Museums Scotland,national,12000000,12000000,0,0,820000,0,0
+National Tramway Museum,national,0,46690,0,0,0,0,0
+National Trust,national,1000000,0,0,0,0,0,0
+National Trust for Scotland,national,300000,0,0,0,0,0,0
+National Waterways Museum,national,150000,0,0,0,4574,0,53195
+Government Art Collection,national,15000,0,0,0,15247,0,0
+Historic England Archive,national,12000000,0,0,12000000,0,0,1000000
+Historic Environment,national,12000000,0,0,12000000,0,0,1000000
+Historic Environment NI,national,0,0,0,0,0,0,0
+Historic Environment Scotland,national,41000,41000,0,0,0,0,0
+People's History Museum,national,5680,5680,0,0,5680,0,0
+Portable Antiquities Scheme,national,1751232,1751232,0,0,1133397,0,0
+Royal Air Force Museum,national,1300000,0,0,0,1344,26,88
+Royal Botanic Gardens Kew,national,7000000,7000000,0,0,5700000,0,0
+Royal Collection,national,1000000,1000000,0,0,289595,0,0
+Royal Horticultural Society,national,0,0,0,0,0,0,0
+National Archives,archives,0,0,0,0,0,0,0
+Glasgow City Archives,archives,0,0,0,0,0,0,0
+Gwynedd Archive Services,archives,12000,0,0,0,0,0,12000
+Hampshire Archives and Local Studies,archives,1000000,0,0,0,0,0,1000000
+Kresen Kernow,archives,1000000,0,0,1000000,0,0,614909
+The London Archives,archives,0,0,0,0,0,0,0
+Norfolk Record Office,archives,0,0,0,0,0,0,0
+North East Wales Archives,archives,338969,0,0,0,0,0,338969
+Public Record Office Northern Ireland,archives,1000000,0,0,0,0,0,1000000
+Royal Commision on Ancient and Historic Monuments of Wales,archives,2000000,0,0,2000000,0,0,0
+Staffordshire Archive and Heritage,regional,0,0,0,0,0,0,0
+Tyne & Wear Archives Catalogue,archives,75980,0,0,0,0,0,4602160
+West Glamorgan Archive Service,archives,230000,0,0,0,0,0,230000
+Yorkshire Film Archive,archives,8483,0,0,0,0,0,8483
+Courtauld Gallery,independent,33501,0,0,0,33501,0,0
+Dulwich Picture Gallery,independent,600,0,0,0,33501,0,0
+Manchester Art Gallery,regional,50000,50000,0,0,0,0,0
+National Galleries Scotland,independent,120000,0,0,0,0,0,0
+William Morris Gallery,regional,10000,10000,0,0,0,0,0
+Royal Academy of Arts,independent,43189,31985,0,0,18421,0,24768
+Bowes Museum,independent,30000,0,0,0,0,0,0
+Britten Pears,independent,1200,0,0,0,0,0,0
+Chatham Historic Dockyard,independent,70000,0,0,0,1548,9249,2058
+Colchester and Ipswich Museums,regional,220000,0,0,0,220000,0,0
+Compton Verney,independent,0,0,0,0,0,0,0
+English Heritage Trust,independent,700000,0,0,0,0,0,0
+Gordon Highlanders Museum,independent,40000,0,0,0,0,0,0
+Harewood House,independent,0,0,0,0,0,0,0
+Ironbridge Gorge Museum Trust,independent,400000,0,0,0,0,0,0
+Jewish Museum London,independent,40000,0,0,0,0,0,0
+London Transport Museum,independent,500000,0,0,0,271610,0,0
+Manchester Jewish Museum,independent,31000,31000,0,0,0,0,0
+Mary Rose Trust,independent,19000,19000,0,0,0,0,0
+Media Archive for Central England (MACE),independent,65000,0,0,0,0,0,0
+Museum of Cornish Life,independent,0,0,0,0,0,0,0
+Food Museum,independent,40000,40000,0,0,32040,0,0
+Museum of Freemasonry,independent,90000,0,90000,0,0,0,0
+Museum of Lead Mining,independent,2572,0,2572,0,0,0,0
+Museum of Scottish Railways,independent,50000,0,0,0,0,0,0
+Paxton Trust,independent,3754,0,0,0,0,0,0
+Pier Arts Centre,independent,180,180,0,0,0,0,0
+Postal Museum,independent,60000,60000,0,0,0,0,0
+R&A World Golf Museum,independent,0,0,0,0,0,0,0
+Royal Academy of Music,independent,0,0,0,0,0,0,0
+Royal Artillery Museum,independent,30000,0,30000,0,0,0,0
+Royal Engineers Museum,independent,1000000,0,0,0,0,0,0
+Royal Scottish Academy of Art & Architecture,independent,9000,9000,0,0,0,0,0
+Scottish Fisheries Museum,independent,66000,0,0,0,0,0,0
+Tank Museum,independent,0,0,0,0,0,0,0
+Thackray Museum of Medicine,regional,75000,0,0,0,0,0,0
+Tuillie House Museum and Art Gallery,regional,1000000,0,0,0,0,0,0
+Vindolanda Trust,regional,0,0,0,0,0,0,0
+Watts Gallery,regional,12541,0,0,0,7756,4117,668
+Wellcome Collection,independent,2250000,250000,2000000,0,0,0,0
+Wordsworth Museum Collection,regional,68000,0,0,0,0,0,0
+"Aberdeen Archives, Gallery and Museums",regional,247327,0,0,0,151529,0,95798
+Aberdeenshire Council Museums,regional,250000,0,0,0,0,0,0
+Barnsley Museums,regional,711400,0,0,0,0,0,0
+Auchindrain Historic Township,regional,0,0,0,0,0,0,0
+Beamish Museum,regional,0,0,0,0,0,0,0
+Birmingham Museums Trust,regional,800000,800000,0,0,0,0,0
+Black Country Living Museum,regional,80000,80000,0,0,4903,0,0
+The Box Plymouth,regional,21691,0,0,0,21691,0,0
+Bradford District Museums & Galleries,regional,837837,387837,0,450000,0,0,0
+Bristol Museums,regional,2000000,0,0,0,0,0,0
+Culture Coventry,regional,1000000,670,0,1000000,109173,0,336877
+Culture Perth and Kinross,regional,500000,0,0,0,0,0,0
+Culture Trust Luton,regional,1105051,5051,0,1100000,0,0,0
+Derby Museums,regional,0,0,0,0,0,0,0
+Dumfries and Galloway Council Arts and Museums Service,regional,0,0,0,0,0,0,0
+Dundee Heritage Trust,regional,0,0,0,0,0,0,0
+East Ayrshire Leisure Trust,regional,0,0,0,0,0,0,0
+Elgin Museum,regional,36000,36000,0,0,0,0,0
+Glasgow Museums,regional,1000000,1000000,0,0,0,0,0
+Groam House Museum,regional,0,0,0,0,0,0,0
+Heritage Doncaster,regional,406750,405000,0,0,0,0,0
+Highland Folk Museum,regional,10000,10000,0,0,0,0,0
+Hull Museums Collections,regional,0,0,0,0,0,0,0
+Leeds Museums & Galleries,regional,1300000,1300000,0,0,0,0,0
+Leicester Museums,regional,1500000,1500000,0,0,0,0,0
+Leicestershire County Council Museum Servive,regional,0,0,0,0,0,0,0
+Liverpool Record Office,regional,0,0,0,0,0,0,0
+Edinburgh Museums,regional,220000,220000,0,0,0,0,0
+Museums Northhumberland,regional,25000,25000,0,0,0,0,0
+Norfolk Museums Collections,regional,0,0,0,0,0,0,0
+Northhampton Museums,regional,44024,44024,0,0,0,0,0
+Northern Ireland Screen,regional,47,0,0,0,0,0,0
+Orkney Museums,regional,100000,0,0,0,0,0,0
+Poole Museums,regional,50000,50000,0,0,1489,0,0
+Potteries Museum and Art Gallery,regional,1000000,1000000,0,0,1489,0,0
+Preston Park Museum & Grounds,regional,100000,100000,0,0,0,0,0
+Ripon Museums,regional,9000,9000,0,0,15,0,5
+Royal Albert Memorial Museum,regional,1000000,0,0,0,16000,0,0
+Salisbury Museum,regional,100000,100000,0,0,0,0,0
+Sheffield Museums,regional,1000,0,0,0,1000,0,0
+Southampton Cultural Services,regional,0,0,0,0,0,0,0
+St Helens Borough Council,regional,0,0,0,0,0,0,0
+Sunderland Museum & Winter Gardens' Collection,regional,108000,0,0,0,0,0,0
+Tyne & Wear Museums,regional,490107,0,0,0,490107,0,0
+Wakefield Museums and Castles Collections,regional,111000,111000,0,0,0,0,0
+Weald and Downland Living Museum,regional,15000,15000,0,0,0,0,0
+Wiltshire Museum,regional,126410,0,0,0,126410,0,0
+York Museums Trust,regional,0,0,0,0,0,0,0
+Victoria & Albert Museum,dcms,2800000,1691513,1130157,0,0,0,0
+Science Museum Group,dcms,7360793,0,0,0,0,0,0
+Museum of the Home,dcms,40000,0,0,0,0,0,0
+Horniman Museum,dcms,350000,0,0,0,132612,0,0
+Imperial War Museums,dcms,1000000,0,0,0,1737698,0,0
+National Gallery,dcms,2626,2626,0,0,2626,0,0
+National Museums Liverpool,dcms,4000000,0,0,0,73682,0,0
+National Portrait Gallery,dcms,350000,0,0,0,220000,0,0
+Natural History Museum,dcms,80000000,0,0,0,0,0,0
+Royal Armouries,dcms,70000,0,0,0,65627,69619,130130
+Royal Museums Greenwich,dcms,3000000,0,0,0,0,0,0
+Sir John Soane's Museum,dcms,52000,0,0,0,57164,6393,0
+Tate Gallery Group,dcms,70000,0,0,0,79236,0,807060
+The Wallace Collection,dcms,5637,5637,0,0,0,0,0
+British Museum,dcms,8000000,8000000,0,0,2000000,0,0

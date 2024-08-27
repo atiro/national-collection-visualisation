@@ -2,7 +2,7 @@ institution,sector,type,topic,precision,record_count
 Oxford University,university,museum,mixed,estimate,1052444
 Bangor University,university,university,mixed,estimate,0
 University of York,university,university,mixed,estimate,0
-University of Cambridge,university,museum,mixed,estimate,0
+University of Cambridge,university,museum,mixed,estimate,7148
 Cardiff University,university,university,mixed,estimate,0
 Durham University,university,museum,mixed,estimate,33234
 University College London,university,museum,mixed,estimate,104446
@@ -17,17 +17,125 @@ University of Brighton,university,museum,mixed,estimate,0
 University of Aberdeen,university,museum,mixed,estimate,0
 University of Bristol,university,museum,mixed,estimate,0
 University of Leeds,university,museum,mixed,estimate,0
-University of Leicester,university,museum,mixed,estimate,0
+University of Leicester,university,university,mixed,estimate,0
 University of Reading,university,university,mixed,estimate,0
 University of Sheffield,university,museum,mixed,estimate,0
 University of St Andrews,university,museum,mixed,estimate,0
+Glasgow School of Art,university,university,mixed,estimate,0
+Royal College of Music London,university,university,music,estimate,0
+Royal College of Surgeons,university,museum,medicine,estimate,0
 British Library,library,museum,mixed,estimate,0
 Chetham's Library,library,museum,mixed,estimate,0
 Glasgow Woman's Library,library,museum,mixed,estimate,3567
 Lambeth Palace Library,library,museum,theology,estimate,0
 National Library of Wales,library,library,mixed,estimate,0
 National Library of Scotland,library,library,mixed,estimate,0
-Victoria & Albert Museum,dcms,museum,art,estimate,1281326
+Amgueddfa Cymru (National Museum Wales),national,museum,mixed,estimate,0
+Historic Royal Palaces,national,building,mixed,estimate,0
+National Football Museum,national,museum,mixed,estimate,0
+National Justice Museum,national,museum,mixed,estimate,0
+National Mining Museum Scotland,national,museum,industry,estimate,0
+National Museum of the Royal Navy,national,museum,maritime,estimate,195690
+National Museums NI,national,museum,mixed,estimate,0
+National Museums Scotland,national,museum,mixed,estimate,820000
+National Tramway Museum,national,museum,mixed,estimate,0
+National Trust,national,building,art,estimate,0
+National Trust for Scotland,national,building,art,estimate,0
+National Waterways Museum,national,museum,transport,estimate,4574
+Government Art Collection,national,museum,art,estimate,15247
+Historic England Archive,national,archive,heritage,estimate,0
+Historic Environment,national,archive,heritage,estimate,0
+Historic Environment Scotland,national,museum,heritage,estimate,0
+People's History Museum,national,museum,social,estimate,5680
+Portable Antiquities Scheme,national,museum,archaeology,estimate,1133397
+Royal Air Force Museum,national,museum,military,estimate,1344
+Royal Botanic Gardens Kew,national,museum,nature,estimate,5700000
+Royal Collection,national,museum,nature,estimate,289595
+Gwynedd Archive Services,archives,archive,mixed,estimate,0
+Hampshire Archives and Local Studies,archives,archive,mixed,estimate,0
+Kresen Kernow,archives,archive,mixed,estimate,0
+North East Wales Archives,archives,archive,mixed,estimate,0
+Public Record Office Northern Ireland,archives,archive,mixed,estimate,0
+Royal Commision on Ancient and Historic Monuments of Wales,archives,archive,archeology,estimate,0
+Staffordshire Archive and Heritage,regional,museum,mixed,estimate,57017
+Tyne & Wear Archives Catalogue,archives,archive,mixed,estimate,0
+West Glamorgan Archive Service,archives,archive,mixed,estimate,0
+Yorkshire Film Archive,archives,archive,media,estimate,0
+Courtauld Gallery,independent,museum,art,estimate,33501
+Dulwich Picture Gallery,independent,museum,art,estimate,33501
+Manchester Art Gallery,independent,gallery,art,estimate,0
+National Galleries Scotland,independent,gallery,art,estimate,0
+Royal Academy of Arts,independent,museum,art,estimate,18421
+William Morris Gallery,regional,gallery,art,estimate,0
+Bowes Museum,independent,museum,art,estimate,0
+Britten Pears,independent,museum,art,estimate,0
+Chatham Historic Dockyard,independent,museum,maritime,estimate,1548
+Colchester and Ipswich Museums,independent,museum,mixed,estimate,220000
+English Heritage Trust,independent,building,history,estimate,0
+Gordon Highlanders Museum,independent,museum,military,estimate,0
+Ironbridge Gorge Museum Trust,independent,museum,industry,estimate,0
+Jewish Museum London,independent,museum,social,estimate,0
+London Transport Museum,independent,museum,transport,estimate,271610
+Manchester Jewish Museum,independent,museum,social,estimate,0
+Mary Rose Trust,independent,museum,maritime,estimate,0
+Media Archive for Central England (MACE),independent,archive,media,estimate,0
+Food Museum,independent,museum,social,estimate,32040
+Museum of Freemasonry,independent,museum,social,estimate,0
+Museum of Lead Mining,independent,museum,industry,estimate,0
+Museum of Scottish Railways,independent,museum,industry,estimate,0
+Paxton Trust,independent,building,art,estimate,0
+Pier Arts Centre,independent,gallery,art,estimate,0
+Postal Museum,independent,museum,social,estimate,0
+Royal Artillery Museum,independent,museum,military,estimate,0
+Royal Engineers Museum,independent,museum,military,estimate,0
+Royal Scottish Academy of Art & Architecture,independent,museum,art,estimate,0
+Scottish Fisheries Museum,independent,museum,maritime,estimate,0
+Thackray Museum of Medicine,regional,museum,medicine,estimate,0
+Tuillie House Museum and Art Gallery,regional,museum,mixed,estimate,0
+Watts Gallery,regional,museum,art,estimate,7756
+Wellcome Collection,independent,museum,medicine,estimate,0
+Wordsworth Museum Collection,regional,museum,literature,estimate,0
+"Aberdeen Archives, Gallery and Museums",regional,museum,mixed,estimate,151529
+Aberdeenshire Council Museums,regional,museum,mixed,estimate,0
+Barnsley Museums,regional,museum,mixed,estimate,0
+Birmingham Museums Trust,regional,museum,art,estimate,0
+Black Country Living Museum,regional,museum,history,estimate,4903
+The Box Plymouth,regional,museum,history,estimate,21691
+Bradford District Museums & Galleries,regional,museum,mixed,estimate,0
+Bristol Museums,regional,museum,mixed,estimate,0
+Culture Coventry,regional,museum,mixed,estimate,109173
+Culture Perth and Kinross,regional,museum,mixed,estimate,0
+Culture Trust Luton,regional,museum,mixed,estimate,0
+Derby Museums,regional,museum,mixed,estimate,0
+Colchester and Ipswich Museums,regional,museum,mixed,estimate,220000
+Dundee Heritage Trust,regional,museum,mixed,estimate,8592
+Elgin Museum,regional,museum,mixed,estimate,0
+Glasgow Museums,regional,museum,mixed,estimate,0
+Heritage Doncaster,regional,museum,mixed,estimate,0
+Highland Folk Museum,regional,museum,social,estimate,0
+Leeds Museums & Galleries,regional,museum,mixed,estimate,0
+Leicester Museums,regional,museum,mixed,estimate,0
+Manchester Art Gallery,regional,gallery,art,estimate,0
+Edinburgh Museums,regional,museum,mixed,estimate,0
+Museums Northhumberland,regional,museum,mixed,estimate,0
+Northhampton Museums,regional,museum,mixed,estimate,0
+Northern Ireland Screen,regional,archive,media,estimate,0
+Orkney Museums,regional,museum,mixed,estimate,0
+Poole Museums,regional,museum,mixed,estimate,1489
+Potteries Museum and Art Gallery,regional,museum,art,estimate,1489
+Preston Park Museum & Grounds,regional,museum,social,estimate,0
+Ripon Museums,regional,museum,social,estimate,15
+Royal Albert Memorial Museum,regional,museum,mixed,estimate,16000
+Salisbury Museum,regional,museum,mixed,estimate,0
+Sheffield Museums,regional,museum,mixed,estimate,1000
+St Helens Borough Council,regional,museum,mixed,estimate,0
+Sunderland Museum & Winter Gardens' Collection,regional,museum,mixed,estimate,0
+Tyne & Wear Museums,regional,museum,mixed,estimate,490107
+Wakefield Museums and Castles Collections,regional,museum,mixed,estimate,0
+Weald and Downland Living Museum,regional,museum,mixed,estimate,0
+Wiltshire Museum,regional,museum,mixed,estimate,126410
+York Museums Trust,regional,museum,mixed,estimate,154354
+Victoria & Albert Museum,dcms,museum,art,estimate,1282171
 Science Museum Group,dcms,museum,science,estimate,0
 Museum of the Home,dcms,museum,history,estimate,12200
 Horniman Museum,dcms,museum,history,estimate,132612
@@ -60,16 +168,124 @@ University of Brighton,university,library,mixed,estimate,0
 University of Aberdeen,university,library,mixed,estimate,0
 University of Bristol,university,library,mixed,estimate,0
 University of Leeds,university,library,mixed,estimate,0
-University of Leicester,university,library,mixed,estimate,0
+University of Leicester,university,university,mixed,estimate,0
 University of Reading,university,library,mixed,estimate,69841
 University of Sheffield,university,library,mixed,estimate,0
 University of St Andrews,university,library,mixed,estimate,0
+Glasgow School of Art,university,university,mixed,estimate,0
+Royal College of Music London,university,university,music,estimate,0
+Royal College of Surgeons,university,library,medicine,estimate,0
 British Library,library,library,mixed,estimate,0
 Chetham's Library,library,library,mixed,estimate,0
 Glasgow Woman's Library,library,library,mixed,estimate,0
 Lambeth Palace Library,library,library,theology,estimate,15000
 National Library of Wales,library,library,mixed,estimate,0
 National Library of Scotland,library,library,mixed,estimate,0
+Amgueddfa Cymru (National Museum Wales),national,museum,mixed,estimate,0
+Historic Royal Palaces,national,building,mixed,estimate,0
+National Football Museum,national,museum,mixed,estimate,0
+National Justice Museum,national,museum,mixed,estimate,0
+National Mining Museum Scotland,national,museum,industry,estimate,0
+National Museum of the Royal Navy,national,library,maritime,estimate,12828
+National Museums NI,national,museum,mixed,estimate,0
+National Museums Scotland,national,museum,mixed,estimate,0
+National Tramway Museum,national,museum,mixed,estimate,0
+National Trust,national,building,art,estimate,0
+National Trust for Scotland,national,building,art,estimate,0
+National Waterways Museum,national,building,transport,estimate,0
+Government Art Collection,national,museum,art,estimate,0
+Historic England Archive,national,archive,heritage,estimate,0
+Historic Environment,national,archive,heritage,estimate,0
+Historic Environment Scotland,national,museum,heritage,estimate,0
+People's History Museum,national,museum,social,estimate,0
+Portable Antiquities Scheme,national,museum,archaeology,estimate,0
+Royal Air Force Museum,national,library,military,estimate,26
+Royal Botanic Gardens Kew,national,museum,nature,estimate,0
+Royal Collection,national,museum,nature,estimate,0
+Gwynedd Archive Services,archives,archive,mixed,estimate,0
+Hampshire Archives and Local Studies,archives,archive,mixed,estimate,0
+Kresen Kernow,archives,archive,mixed,estimate,0
+North East Wales Archives,archives,archive,mixed,estimate,0
+Public Record Office Northern Ireland,archives,archive,mixed,estimate,0
+Royal Commision on Ancient and Historic Monuments of Wales,archives,archive,archeology,estimate,0
+Staffordshire Archive and Heritage,regional,library,mixed,estimate,139389
+Tyne & Wear Archives Catalogue,archives,archive,mixed,estimate,0
+West Glamorgan Archive Service,archives,archive,mixed,estimate,0
+Yorkshire Film Archive,archives,archive,media,estimate,0
+Courtauld Gallery,independent,gallery,art,estimate,0
+Dulwich Picture Gallery,independent,gallery,art,estimate,0
+Manchester Art Gallery,independent,gallery,art,estimate,0
+National Galleries Scotland,independent,gallery,art,estimate,0
+Royal Academy of Arts,independent,gallery,art,estimate,0
+William Morris Gallery,regional,gallery,art,estimate,0
+Bowes Museum,independent,museum,art,estimate,0
+Britten Pears,independent,museum,art,estimate,0
+Chatham Historic Dockyard,independent,library,maritime,estimate,9249
+Colchester and Ipswich Museums,independent,museum,mixed,estimate,0
+English Heritage Trust,independent,building,history,estimate,0
+Gordon Highlanders Museum,independent,museum,military,estimate,0
+Ironbridge Gorge Museum Trust,independent,museum,industry,estimate,0
+Jewish Museum London,independent,museum,social,estimate,0
+London Transport Museum,independent,museum,transport,estimate,0
+Manchester Jewish Museum,independent,museum,social,estimate,0
+Mary Rose Trust,independent,museum,maritime,estimate,0
+Media Archive for Central England (MACE),independent,archive,media,estimate,0
+Food Museum,independent,museum,social,estimate,0
+Museum of Freemasonry,independent,library,social,estimate,0
+Museum of Lead Mining,independent,library,industry,estimate,0
+Museum of Scottish Railways,independent,library,industry,estimate,0
+Paxton Trust,independent,building,art,estimate,0
+Pier Arts Centre,independent,gallery,art,estimate,0
+Postal Museum,independent,museum,social,estimate,0
+Royal Artillery Museum,independent,library,military,estimate,0
+Royal Engineers Museum,independent,museum,military,estimate,0
+Royal Scottish Academy of Art & Architecture,independent,museum,art,estimate,0
+Scottish Fisheries Museum,independent,museum,maritime,estimate,0
+Thackray Museum of Medicine,regional,museum,medicine,estimate,0
+Tuillie House Museum and Art Gallery,regional,museum,mixed,estimate,0
+Watts Gallery,regional,library,art,estimate,4117
+Wellcome Collection,independent,library,medicine,estimate,0
+Wordsworth Museum Collection,regional,museum,literature,estimate,0
+"Aberdeen Archives, Gallery and Museums",regional,mixed,mixed,estimate,0
+Aberdeenshire Council Museums,regional,museum,mixed,estimate,0
+Barnsley Museums,regional,museum,mixed,estimate,0
+Birmingham Museums Trust,regional,museum,art,estimate,0
+Black Country Living Museum,regional,museum,history,estimate,0
+The Box Plymouth,regional,mixed,history,estimate,0
+Bradford District Museums & Galleries,regional,library,mixed,estimate,0
+Bristol Museums,regional,museum,mixed,estimate,0
+Culture Coventry,regional,museum,mixed,estimate,0
+Culture Perth and Kinross,regional,museum,mixed,estimate,0
+Culture Trust Luton,regional,library,mixed,estimate,0
+Derby Museums,regional,museum,mixed,estimate,0
+Colchester and Ipswich Museums,regional,museum,mixed,estimate,0
+Dundee Heritage Trust,regional,library,mixed,estimate,0
+Elgin Museum,regional,museum,mixed,estimate,0
+Glasgow Museums,regional,museum,mixed,estimate,0
+Heritage Doncaster,regional,library,mixed,estimate,0
+Highland Folk Museum,regional,museum,social,estimate,0
+Leeds Museums & Galleries,regional,museum,mixed,estimate,0
+Leicester Museums,regional,museum,mixed,estimate,0
+Manchester Art Gallery,regional,gallery,art,estimate,0
+Edinburgh Museums,regional,museum,mixed,estimate,0
+Museums Northhumberland,regional,museum,mixed,estimate,0
+Northhampton Museums,regional,library,mixed,estimate,0
+Northern Ireland Screen,regional,archive,media,estimate,0
+Orkney Museums,regional,museum,mixed,estimate,0
+Poole Museums,regional,museum,mixed,estimate,0
+Potteries Museum and Art Gallery,regional,museum,art,estimate,0
+Preston Park Museum & Grounds,regional,museum,social,estimate,0
+Ripon Museums,regional,museum,social,estimate,0
+Royal Albert Memorial Museum,regional,museum,mixed,estimate,0
+Salisbury Museum,regional,museum,mixed,estimate,0
+Sheffield Museums,regional,museum,mixed,estimate,0
+St Helens Borough Council,regional,library,mixed,estimate,0
+Sunderland Museum & Winter Gardens' Collection,regional,museum,mixed,estimate,0
+Tyne & Wear Museums,regional,museum,mixed,estimate,0
+Wakefield Museums and Castles Collections,regional,museum,mixed,estimate,0
+Weald and Downland Living Museum,regional,museum,mixed,estimate,0
+Wiltshire Museum,regional,museum,mixed,estimate,0
+York Museums Trust,regional,library,mixed,estimate,0
 Victoria & Albert Museum,dcms,library,art,estimate,849000
 Science Museum Group,dcms,museum,science,estimate,0
 Museum of the Home,dcms,library,history,estimate,6290
@@ -88,7 +304,7 @@ British Museum,dcms,museum,history,estimate,0
 Oxford University,university,archive,mixed,estimate,0
 Bangor University,university,university,mixed,estimate,0
 University of York,university,university,mixed,estimate,0
-University of Cambridge,university,archive,mixed,estimate,0
+University of Cambridge,university,archive,mixed,estimate,6979
 Cardiff University,university,university,mixed,estimate,0
 Durham University,university,archive,mixed,estimate,0
 University College London,university,archive,mixed,estimate,0
@@ -103,17 +319,125 @@ University of Brighton,university,archive,mixed,estimate,0
 University of Aberdeen,university,archive,mixed,estimate,0
 University of Bristol,university,archive,mixed,estimate,0
 University of Leeds,university,archive,mixed,estimate,0
-University of Leicester,university,archive,mixed,estimate,0
+University of Leicester,university,university,mixed,estimate,0
 University of Reading,university,archive,mixed,estimate,186216
 University of Sheffield,university,archive,mixed,estimate,0
 University of St Andrews,university,archive,mixed,estimate,0
+Glasgow School of Art,university,university,mixed,estimate,0
+Royal College of Music London,university,university,music,estimate,0
+Royal College of Surgeons,university,archive,medicine,estimate,0
 British Library,library,archive,mixed,estimate,0
 Chetham's Library,library,archive,mixed,estimate,0
 Glasgow Woman's Library,library,archive,mixed,estimate,0
 Lambeth Palace Library,library,archive,theology,estimate,0
 National Library of Wales,library,library,mixed,estimate,0
 National Library of Scotland,library,library,mixed,estimate,0
-Victoria & Albert Museum,dcms,archive,art,estimate,157054
+Amgueddfa Cymru (National Museum Wales),national,museum,mixed,estimate,0
+Historic Royal Palaces,national,building,mixed,estimate,0
+National Football Museum,national,museum,mixed,estimate,0
+National Justice Museum,national,museum,mixed,estimate,0
+National Mining Museum Scotland,national,museum,industry,estimate,0
+National Museum of the Royal Navy,national,museum,maritime,estimate,0
+National Museums NI,national,museum,mixed,estimate,0
+National Museums Scotland,national,museum,mixed,estimate,0
+National Tramway Museum,national,museum,mixed,estimate,0
+National Trust,national,building,art,estimate,0
+National Trust for Scotland,national,building,art,estimate,0
+National Waterways Museum,national,archive,transport,estimate,53195
+Government Art Collection,national,museum,art,estimate,0
+Historic England Archive,national,archive,heritage,estimate,1000000
+Historic Environment,national,archive,heritage,estimate,1000000
+Historic Environment Scotland,national,museum,heritage,estimate,0
+People's History Museum,national,museum,social,estimate,0
+Portable Antiquities Scheme,national,museum,archaeology,estimate,0
+Royal Air Force Museum,national,archive,military,estimate,88
+Royal Botanic Gardens Kew,national,museum,nature,estimate,0
+Royal Collection,national,museum,nature,estimate,0
+Gwynedd Archive Services,archives,archive,mixed,estimate,12000
+Hampshire Archives and Local Studies,archives,archive,mixed,estimate,1000000
+Kresen Kernow,archives,archive,mixed,estimate,614909
+North East Wales Archives,archives,archive,mixed,estimate,338969
+Public Record Office Northern Ireland,archives,archive,mixed,estimate,1000000
+Royal Commision on Ancient and Historic Monuments of Wales,archives,archive,archeology,estimate,0
+Staffordshire Archive and Heritage,regional,archive,mixed,estimate,503623
+Tyne & Wear Archives Catalogue,archives,archive,mixed,estimate,4602160
+West Glamorgan Archive Service,archives,archive,mixed,estimate,230000
+Yorkshire Film Archive,archives,archive,media,estimate,8483
+Courtauld Gallery,independent,gallery,art,estimate,0
+Dulwich Picture Gallery,independent,gallery,art,estimate,0
+Manchester Art Gallery,independent,gallery,art,estimate,0
+National Galleries Scotland,independent,gallery,art,estimate,0
+Royal Academy of Arts,independent,archive,art,estimate,24768
+William Morris Gallery,regional,gallery,art,estimate,0
+Bowes Museum,independent,museum,art,estimate,0
+Britten Pears,independent,museum,art,estimate,0
+Chatham Historic Dockyard,independent,archive,maritime,estimate,2058
+Colchester and Ipswich Museums,independent,museum,mixed,estimate,0
+English Heritage Trust,independent,building,history,estimate,0
+Gordon Highlanders Museum,independent,museum,military,estimate,0
+Ironbridge Gorge Museum Trust,independent,museum,industry,estimate,0
+Jewish Museum London,independent,museum,social,estimate,0
+London Transport Museum,independent,museum,transport,estimate,0
+Manchester Jewish Museum,independent,museum,social,estimate,0
+Mary Rose Trust,independent,museum,maritime,estimate,0
+Media Archive for Central England (MACE),independent,archive,media,estimate,0
+Food Museum,independent,museum,social,estimate,0
+Museum of Freemasonry,independent,archive,social,estimate,0
+Museum of Lead Mining,independent,archive,industry,estimate,0
+Museum of Scottish Railways,independent,archive,industry,estimate,0
+Paxton Trust,independent,building,art,estimate,0
+Pier Arts Centre,independent,gallery,art,estimate,0
+Postal Museum,independent,museum,social,estimate,0
+Royal Artillery Museum,independent,archive,military,estimate,0
+Royal Engineers Museum,independent,museum,military,estimate,0
+Royal Scottish Academy of Art & Architecture,independent,museum,art,estimate,0
+Scottish Fisheries Museum,independent,museum,maritime,estimate,0
+Thackray Museum of Medicine,regional,museum,medicine,estimate,0
+Tuillie House Museum and Art Gallery,regional,museum,mixed,estimate,0
+Watts Gallery,regional,archive,art,estimate,668
+Wellcome Collection,independent,archive,medicine,estimate,0
+Wordsworth Museum Collection,regional,museum,literature,estimate,0
+"Aberdeen Archives, Gallery and Museums",regional,archive,mixed,estimate,95798
+Aberdeenshire Council Museums,regional,museum,mixed,estimate,0
+Barnsley Museums,regional,museum,mixed,estimate,0
+Birmingham Museums Trust,regional,museum,art,estimate,0
+Black Country Living Museum,regional,museum,history,estimate,0
+The Box Plymouth,regional,mixed,history,estimate,0
+Bradford District Museums & Galleries,regional,archive,mixed,estimate,21878
+Bristol Museums,regional,museum,mixed,estimate,0
+Culture Coventry,regional,archive,mixed,estimate,336877
+Culture Perth and Kinross,regional,museum,mixed,estimate,0
+Culture Trust Luton,regional,archive,mixed,estimate,0
+Derby Museums,regional,museum,mixed,estimate,0
+Colchester and Ipswich Museums,regional,museum,mixed,estimate,0
+Dundee Heritage Trust,regional,archive,mixed,estimate,0
+Elgin Museum,regional,museum,mixed,estimate,0
+Glasgow Museums,regional,museum,mixed,estimate,0
+Heritage Doncaster,regional,archive,mixed,estimate,0
+Highland Folk Museum,regional,museum,social,estimate,0
+Leeds Museums & Galleries,regional,museum,mixed,estimate,0
+Leicester Museums,regional,museum,mixed,estimate,0
+Manchester Art Gallery,regional,gallery,art,estimate,0
+Edinburgh Museums,regional,museum,mixed,estimate,0
+Museums Northhumberland,regional,museum,mixed,estimate,0
+Northhampton Museums,regional,archive,mixed,estimate,0
+Northern Ireland Screen,regional,archive,media,estimate,0
+Orkney Museums,regional,museum,mixed,estimate,0
+Poole Museums,regional,museum,mixed,estimate,0
+Potteries Museum and Art Gallery,regional,museum,art,estimate,0
+Preston Park Museum & Grounds,regional,museum,social,estimate,0
+Ripon Museums,regional,archive,social,estimate,5
+Royal Albert Memorial Museum,regional,museum,mixed,estimate,0
+Salisbury Museum,regional,museum,mixed,estimate,0
+Sheffield Museums,regional,museum,mixed,estimate,0
+St Helens Borough Council,regional,archive,mixed,estimate,93344
+Sunderland Museum & Winter Gardens' Collection,regional,museum,mixed,estimate,0
+Tyne & Wear Museums,regional,museum,mixed,estimate,0
+Wakefield Museums and Castles Collections,regional,museum,mixed,estimate,0
+Weald and Downland Living Museum,regional,museum,mixed,estimate,0
+Wiltshire Museum,regional,museum,mixed,estimate,0
+York Museums Trust,regional,archive,mixed,estimate,0
+Victoria & Albert Museum,dcms,archive,art,estimate,157835
 Science Museum Group,dcms,museum,science,estimate,0
 Museum of the Home,dcms,museum,history,estimate,0
 Horniman Museum,dcms,museum,history,estimate,0

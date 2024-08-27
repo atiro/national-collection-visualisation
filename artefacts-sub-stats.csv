@@ -1,7 +1,43 @@
-institution,sector,type,topic,precision,artefact_count
+institution,subcollection,sector,type,topic,precision,artefact_count
 Oxford University,Ashmolean Museum,university,museum,art,estimate,1000000
 Oxford University,History of Science Museum,university,museum,science,estimate,30000
 Oxford University,Museum of Natural History,university,museum,nature,estimate,7000000
 Oxford University,Pitt Rivers Museum,university,museum,anthopology,estimate,500000
 Oxford University,Bodleian Library,university,library,national,estimate,13000000
 Oxford University,History of Science Museum,university,museum,science,estimate,1000000
+University of Cambridge,Museum of Zoology,university,museum,mixed,estimate,2000000
+University of Cambridge,Sedgewick Museum of Earth Sciences,university,museum,mixed,estimate,2000000
+University of Cambridge,Whipple Museum of the History of Science,university,museum,science,estimate,7000
+Royal College of Surgeons,Hunterian Museum,university,museum,medicine,estimate,3500
+Amgueddfa Cymru (National Museum Wales),Archaeology & Numismatics,national,museum,history,estimate,1306174
+Amgueddfa Cymru (National Museum Wales),Art,national,museum,art,estimate,46785
+Amgueddfa Cymru (National Museum Wales),Natural Sciences,national,museum,natural-history,estimate,3018657
+Amgueddfa Cymru (National Museum Wales),National Wool Museum,national,museum,industry,estimate,12000
+Amgueddfa Cymru (National Museum Wales),Industry,national,museum,industry,estimate,268977
+Amgueddfa Cymru (National Museum Wales),Library,national,library,mixed,estimate,265159
+Amgueddfa Cymru (National Museum Wales),Social & Cultural History,national,museum,social,estimate,401833
+Historic Royal Palaces,Royal Ceremonial Dress Collection,national,museum,fashion,estimate,11000
+Historic Royal Palaces,General Collection,national,museum,art,estimate,10000
+Historic Royal Palaces,Architectural drawings archive,national,archive,architecture,estimate,22000
+Historic Royal Palaces,Architectural/Archaeological Materials,national,archive,architecture,estimate,10000
+National Tramway Museum,Tramcar and tramway vehicle collection,national,museum,transport,estimate,90
+National Tramway Museum,Technical Drawings,national,museum,transport,estimate,6000
+National Tramway Museum,Ephemera,national,museum,transport,estimate,40000
+National Tramway Museum,Cine Film,national,museum,transport,estimate,600
+Museum of Lead Mining,Miners' Library Collection,independent,library,industry,estimate,2572
+Museum of Scottish Railways,Small Objects,independent,museum,industry,estimate,50000
+Birmingham Museums Trust,Art & Design Collection,regional,museum,art,estimate,58805
+Birmingham Museums Trust,Art & Design Collection,regional,museum,history,estimate,230000
+Birmingham Museums Trust,Natural Science Collection,regional,museum,natural-history,estimate,250000
+Birmingham Museums Trust,Science and Industry Collection,regional,museum,industry,estimate,40000
+Culture Coventry,Herbert Art Gallery & Museum,regional,museum,mixed,estimate,320000
+Heritage Doncaster,Fine Art Collection,regional,museum,art,estimate,1750
+Heritage Doncaster,Social History Collection,regional,museum,social,estimate,20000
+Heritage Doncaster,Decorative Art Collection,regional,museum,art,estimate,5000
+Heritage Doncaster,Natural Sciences Collection,regional,museum,art,estimate,380000
+Leeds Museums & Galleries,Natural Science Collection,regional,museum,nature,estimate,800000
+Leeds Museums & Galleries,Social History Collection,regional,museum,social,estimate,100000
+Leeds Museums & Galleries,World Cultures,regional,museum,history,estimate,12000
+Northhampton Museums,Ethnography,regional,museum,social,estimate,524
+Northhampton Museums,Geology,regional,museum,geology,estimate,40000
+Northhampton Museums,Fine Art,regional,museum,art,estimate,3500

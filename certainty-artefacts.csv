@@ -1,6 +1,80 @@
 institution,sector,type,available,method,uncertainty
 National Library of Wales,library,library,observed,2
 National Library of Scotland,library,library,observed,2
+Historic Royal Palaces,national,building,observed,2
+National Football Museum,national,museum,observed,2
+National Justice Museum,national,museum,observed,2
+National Mining Museum Scotland,national,museum,observed,2
+National Museum of the Royal Navy,national,museum,observed,2
+National Museums NI,national,museum,observed,2
+National Museums Scotland,national,museum,observed,2
+National Trust,national,building,observed,2
+National Trust for Scotland,national,building,observed,2
+National Waterways Museum,national,building,observed,2
+Government Art Collection,national,museum,observed,2
+Historic Environment Scotland,national,museum,observed,2
+People's History Museum,national,museum,observed,2
+Portable Antiquities Scheme,national,museum,observed,2
+Royal Air Force Museum,national,museum,observed,2
+Royal Botanic Gardens Kew,national,museum,observed,2
+Royal Collection,national,museum,observed,2
+Courtauld Gallery,independent,gallery,observed,2
+Dulwich Picture Gallery,independent,gallery,observed,2
+Manchester Art Gallery,independent,gallery,observed,2
+National Galleries Scotland,independent,gallery,observed,2
+William Morris Gallery,regional,gallery,observed,2
+Bowes Museum,independent,museum,report,2
+Britten Pears,independent,museum,report,2
+Chatham Historic Dockyard,independent,building,report,2
+Chatham Historic Dockyard,independent,building,report,2
+Colchester and Ipswich Museums,independent,museum,report,2
+English Heritage Trust,independent,building,observed,2
+Gordon Highlanders Museum,independent,museum,observed,2
+Ironbridge Gorge Museum Trust,independent,museum,observed,2
+Jewish Museum London,independent,museum,observed,2
+London Transport Museum,independent,museum,observed,2
+Manchester Jewish Museum,independent,museum,observed,2
+Mary Rose Trust,independent,museum,observed,2
+Media Archive for Central England (MACE),independent,archive,observed,2
+Food Museum,independent,museum,observed,2
+Paxton Trust,independent,building,observed,2
+Pier Arts Centre,independent,gallery,observed,2
+Postal Museum,independent,museum,observed,2
+Royal Engineers Museum,independent,museum,report,2
+Royal Scottish Academy of Art & Architecture,independent,museum,report,2
+Scottish Fisheries Museum,independent,museum,report,2
+Thackray Museum of Medicine,regional,museum,observed,2
+Tuillie House Museum and Art Gallery,regional,museum,observed,2
+Wordsworth Museum Collection,regional,museum,observed,2
+"Aberdeen Archives, Gallery and Museums",regional,mixed,report,2
+Aberdeenshire Council Museums,regional,museum,report,2
+Barnsley Museums,regional,museum,report,2
+Birmingham Museums Trust,regional,museum,observed,2
+Black Country Living Museum,regional,museum,report,2
+Black Country Living Museum,regional,museum,report,2
+The Box Plymouth,regional,mixed,report,2
+Bristol Museums,regional,museum,observed,2
+Culture Coventry,regional,museum,observed,2
+Culture Perth and Kinross,regional,museum,observed,2
+Colchester and Ipswich Museums,regional,museum,report,2
+Elgin Museum,regional,museum,observed,2
+Glasgow Museums,regional,museum,observed,2
+Highland Folk Museum,regional,museum,observed,2
+Leeds Museums & Galleries,regional,museum,observed,2
+Leicester Museums,regional,museum,observed,2
+Manchester Art Gallery,regional,gallery,observed,2
+Edinburgh Museums,regional,museum,observed,2
+Museums Northhumberland,regional,museum,observed,2
+Orkney Museums,regional,museum,observed,2
+Poole Museums,regional,museum,observed,2
+Potteries Museum and Art Gallery,regional,museum,observed,2
+Preston Park Museum & Grounds,regional,museum,observed,2
+Ripon Museums,regional,museum,observed,2
+Royal Albert Memorial Museum,regional,museum,observed,2
+Salisbury Museum,regional,museum,observed,2
+Sunderland Museum & Winter Gardens' Collection,regional,museum,observed,2
+Wakefield Museums and Castles Collections,regional,museum,observed,2
+Weald and Downland Living Museum,regional,museum,observed,2
 Victoria & Albert Museum,dcms,museum,report,2
 Science Museum Group,dcms,museum,report,2
 Museum of the Home,dcms,museum,observed,2

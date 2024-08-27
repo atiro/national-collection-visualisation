@@ -2,13 +2,54 @@ institution,subcollection,sector,type,topic,precision,record_count
 Oxford University,History of Science Museum,university,museum,science,estimate,33592
 Oxford University,Museum of Natural History,university,museum,nature,estimate,505745
 Oxford University,Pitt Rivers Museum,university,museum,anthopology,estimate,513107
+University of Cambridge,Whipple Museum of the History of Science,university,museum,science,estimate,7148
 Durham University,Oriental Museum,university,museum,art,estimate,33234
 University College London,Petrie Museum,university,museum,history,estimate,83455
 University College London,UCL Art Museum,university,museum,art,estimate,10712
 University College London,UCL Pathology Collection,university,museum,medicine,estimate,8817
 University College London,UCL Pathology Collection,university,museum,science,estimate,1462
 Glasgow Woman's Library,Museum Collections,library,museum,mixed,estimate,3567
-Victoria & Albert Museum,Victoria & Albert Museum,dcms,museum,art,exact,1281326
+National Museum of the Royal Navy,Museum Collection,national,museum,architecture,estimate,195690
+National Museums Scotland,Museum Collection,national,museum,architecture,estimate,820000
+National Waterways Museum,Museum Collection,national,museum,transport,estimate,4574
+Government Art Collection,Museum Collection,national,museum,transport,estimate,15247
+People's History Museum,Museum Collection,national,museum,transport,estimate,5680
+Portable Antiquities Scheme,Museum Collection,national,museum,transport,estimate,1133397
+Royal Air Force Museum,Museum Collection,national,museum,transport,estimate,1344
+Royal Botanic Gardens Kew,Museum Collection,national,museum,transport,estimate,5700000
+Royal Collection,Museum Collection,national,museum,transport,estimate,289595
+Staffordshire Archive and Heritage,Museum Collection,regional,museum,mixed,estimate,57017
+Courtauld Gallery,Museum Collection,independent,museum,mixed,estimate,33501
+Dulwich Picture Gallery,Museum Collection,independent,museum,mixed,estimate,33501
+Chatham Historic Dockyard,Museum Collection,independent,museum,art,estimate,1548
+Colchester and Ipswich Museums,Museum Collection,independent,museum,art,estimate,220000
+London Transport Museum,Museum Collection,independent,museum,art,estimate,271610
+Food Museum,Museum Collection,independent,museum,art,estimate,32040
+Watts Gallery,Museum Collection,regional,museum,military,estimate,7756
+"Aberdeen Archives, Gallery and Museums",Museum Collection,regional,museum,medicine,estimate,151529
+Black Country Living Museum,Museum Collection,regional,museum,industry,estimate,4903
+The Box Plymouth,Museum Collection,regional,museum,industry,estimate,21691
+Colchester and Ipswich Museums,Museum Collection,regional,museum,transport,estimate,220000
+Dundee Heritage Trust,Martime,regional,museum,maritime,estimate,2411
+Dundee Heritage Trust,Textiles,regional,museum,fashion,estimate,5864
+Dundee Heritage Trust,Dundee and Social History,regional,museum,social,estimate,317
+Poole Museums,Museum Collection,regional,museum,art,estimate,1489
+Potteries Museum and Art Gallery,Museum Collection,regional,museum,art,estimate,1489
+Ripon Museums,Museum Collection,regional,museum,art,estimate,15
+Royal Albert Memorial Museum,Museum Collection,regional,museum,art,estimate,16000
+Sheffield Museums,Museum Collection,regional,museum,art,estimate,1000
+Tyne & Wear Museums,Museum Collection,regional,museum,mixed,estimate,490107
+Wiltshire Museum,Museum Collection,regional,museum,mixed,estimate,126410
+York Museums Trust,Fine Art,regional,museum,art,estimate,15733
+York Museums Trust,Decorative Arts,regional,museum,art,estimate,11080
+York Museums Trust,Archaeology,regional,museum,archaeology,estimate,21229
+York Museums Trust,Biology,regional,museum,nature,estimate,14282
+York Museums Trust,Costume and Textiles,regional,museum,fashion,estimate,15468
+York Museums Trust,Geology,regional,museum,geology,estimate,34048
+York Museums Trust,Military History,regional,museum,military,estimate,6838
+York Museums Trust,Photographs,regional,museum,social,estimate,5902
+York Museums Trust,Social History,regional,museum,social,estimate,29774
+Victoria & Albert Museum,Victoria & Albert Museum,dcms,museum,art,exact,1282171
 Museum of the Home,Museum of the Home,dcms,museum,history,exact,12200
 Horniman Museum,Museum Collection,dcms,museum,history,estimate,132612
 Imperial War Museums,Museum Collection,dcms,museum,history,estimate,1737698
