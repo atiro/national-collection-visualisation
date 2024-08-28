@@ -7,9 +7,9 @@ parts:
   - caption: Overview (Latest)
     chapters:
       - file: general-overview
-      - file: general-institution-overview
-      - file: records-subcollection-overview
       - file: artefacts-overview
+#      - file: general-institution-overview
+      - file: records-subcollection-overview
       - file: artefacts-subcollection-overview
       - file: records-overview
       - file: cataloguing-overview
@@ -35,3 +35,13 @@ parts:
       - file: museum-objects-overview
       - file: library-items-overview
       - file: archive-items-overview
+  - caption: Institution Details
+    chapters:
+      - file: institutions-archives.md
+      - file: institutions-dcms.md
+      - file: institutions-galleries.md
+      - file: institutions-independent.md
+      - file: institutions-library.md
+      - file: institutions-national.md
+      - file: institutions-regional.md
+      - file: institutions-university.md
