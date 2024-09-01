@@ -7,10 +7,10 @@ parts:
   - caption: Overview (Latest)
     chapters:
       - file: general-overview
+      - file: artefacts-subcollection-overview
       - file: artefacts-overview
 #      - file: general-institution-overview
       - file: records-subcollection-overview
-      - file: artefacts-subcollection-overview
       - file: records-overview
       - file: cataloguing-overview
       - file: digitised-overview
