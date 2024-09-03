@@ -14,6 +14,7 @@ parts:
       - file: records-overview
       - file: cataloguing-overview
       - file: digitised-overview
+      - file: methodology
 #  - caption: Overview (Progress)
 #  - caption: Per Overview (Latest)
   - caption: Sector Overview (Latest)
@@ -21,7 +22,6 @@ parts:
       - file: dcms-institution-overview
       - file: university-institution-overview
       - file: library-institution-overview
-      - file: gallery-institution-overview
       - file: archives-institution-overview
       - file: regional-institution-overview
       - file: national-institution-overview
@@ -30,7 +30,7 @@ parts:
 #    - file: objects-overview
 #    - file: library-overview
 #    - file: archive-overview
-  - caption: Per Artefact Type Overview (Latest)
+  - caption: Artefact Type Overview (Latest)
     chapters:
       - file: museum-objects-overview
       - file: library-items-overview
