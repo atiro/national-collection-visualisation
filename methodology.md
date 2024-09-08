@@ -2,21 +2,22 @@
 
 Please Note: This is a work in progress and this methodology may be reviewed.
 
-The institutions used for this work are taken from the report -. 
+The institutions used for this work are taken from the report '' with the
+addition of the National Library of Scotland.
 
 ## Data sources (websites/annual reports)
 
 For each institution, the website for the institution was searched for. From
-this website the institution was placed into:
+the information on the website the institution was placed into a:
 
   * A sector
-  * A topic
-  * A type
+  * A topic (mixed if more than one topic)
+  * A type of institution (museum, library, archive, university)
 
-Of course, by placing a large institution into a single topic, this will
-miss out on some very large areas of this institutions collection on 
-another topic. For this reason, sub-collections are also able to have
-different topics and there are presentations of the data at the 
+Of course, by picking a single topic for a large institution, this may
+miss out on some very large areas of the institutions collection on 
+another topic. To try to give a wider view, sub-collections are also able 
+to have different topics and there are presentations of the data at the 
 sub-collections level. 
 
 ## Sub-collections

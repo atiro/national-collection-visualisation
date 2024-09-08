@@ -153,9 +153,9 @@ Royal Air Force Museum,archive,museum,military,archive,item,estimate,0
 Royal Botanic Gardens Kew,museum,museum,nature,object,item,estimate,7000000
 Royal Botanic Gardens Kew,library,museum,nature,library,item,estimate,0
 Royal Botanic Gardens Kew,archive,museum,nature,archive,item,estimate,0
-Royal Collection,museum,museum,nature,object,item,estimate,1000000
-Royal Collection,library,museum,nature,library,item,estimate,0
-Royal Collection,archive,museum,nature,archive,item,estimate,0
+Royal Collection,museum,museum,art,object,item,estimate,1000000
+Royal Collection,library,museum,art,library,item,estimate,0
+Royal Collection,archive,museum,art,archive,item,estimate,0
 Gwynedd Archive Services,museum,archive,mixed,object,item,estimate,0
 Gwynedd Archive Services,library,archive,mixed,library,item,estimate,0
 Gwynedd Archive Services,archive,archive,mixed,archive,item,estimate,0
@@ -434,7 +434,7 @@ National Museums Liverpool,archive,museum,history,archive,item,estimate,0
 National Portrait Gallery,museum,gallery,art,object,item,estimate,0
 National Portrait Gallery,library,gallery,art,library,item,estimate,0
 National Portrait Gallery,archive,gallery,art,archive,item,estimate,0
-Natural History Museum,museum,museum,nature,object,item,estimate,0
+Natural History Museum,museum,museum,nature,object,item,estimate,80000000
 Natural History Museum,library,museum,nature,library,item,estimate,0
 Natural History Museum,archive,museum,nature,archive,item,estimate,0
 Royal Armouries,museum,museum,history,object,item,estimate,0

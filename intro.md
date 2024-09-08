@@ -2,12 +2,10 @@
 
 (work in progress, please do not quote the figures/illustrations)
 
-![treemap](images/intro-treemap.png)
-
 :::{figure-md} intro-fig
 <img src="images/intro-treemap.png" alt="Treemap data visualisation showing percentage per institution of UK national collection ">
 
-Treemap diagram showing by area what percentage of the UK National Collection is contributed by each institution (with many caveats)
+Treemap diagram showing by area what percentage of the UK National Collection is contributed by each institution (with many caveats, gaps and assumptions).
 :::
 
 

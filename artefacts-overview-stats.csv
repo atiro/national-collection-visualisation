@@ -41,7 +41,7 @@ People's History Museum,national,museum,social,estimate,5680
 Portable Antiquities Scheme,national,museum,archaeology,estimate,1751232
 Royal Air Force Museum,national,museum,military,estimate,1300000
 Royal Botanic Gardens Kew,national,museum,nature,estimate,7000000
-Royal Collection,national,museum,nature,estimate,1000000
+Royal Collection,national,museum,art,estimate,1000000
 Staffordshire Archive and Heritage,regional,mixed,mixed,estimate,0
 Courtauld Gallery,independent,gallery,art,estimate,33501
 Dulwich Picture Gallery,independent,gallery,art,estimate,600
@@ -114,7 +114,6 @@ Imperial War Museums,dcms,museum,history,estimate,1000000
 National Gallery,dcms,gallery,art,estimate,2626
 National Museums Liverpool,dcms,museum,history,estimate,4000000
 National Portrait Gallery,dcms,gallery,art,estimate,350000
-Natural History Museum,dcms,museum,nature,estimate,80000000
 Royal Armouries,dcms,museum,history,estimate,70000
 Royal Museums Greenwich,dcms,museum,history,estimate,3000000
 Sir John Soane's Museum,dcms,museum,history,estimate,52000

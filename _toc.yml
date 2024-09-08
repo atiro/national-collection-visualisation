@@ -7,11 +7,11 @@ parts:
   - caption: Overview (Latest)
     chapters:
       - file: general-overview
-      - file: artefacts-subcollection-overview
       - file: artefacts-overview
+      - file: artefacts-subcollection-overview
 #      - file: general-institution-overview
-      - file: records-subcollection-overview
       - file: records-overview
+      - file: records-subcollection-overview
       - file: cataloguing-overview
       - file: digitised-overview
       - file: methodology
@@ -23,6 +23,7 @@ parts:
       - file: university-institution-overview
       - file: library-institution-overview
       - file: archives-institution-overview
+      - file: independent-institution-overview
       - file: regional-institution-overview
       - file: national-institution-overview
 #  - caption: Topic Stats

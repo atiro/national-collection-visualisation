@@ -50,7 +50,7 @@ People's History Museum,national,museum,social,estimate,5680
 Portable Antiquities Scheme,national,museum,archaeology,estimate,1133397
 Royal Air Force Museum,national,museum,military,estimate,1344
 Royal Botanic Gardens Kew,national,museum,nature,estimate,5700000
-Royal Collection,national,museum,nature,estimate,289595
+Royal Collection,national,museum,art,estimate,289595
 Gwynedd Archive Services,archives,archive,mixed,estimate,0
 Hampshire Archives and Local Studies,archives,archive,mixed,estimate,0
 Kresen Kernow,archives,archive,mixed,estimate,0
@@ -135,7 +135,7 @@ Wakefield Museums and Castles Collections,regional,museum,mixed,estimate,0
 Weald and Downland Living Museum,regional,museum,mixed,estimate,0
 Wiltshire Museum,regional,museum,mixed,estimate,126410
 York Museums Trust,regional,museum,mixed,estimate,154354
-Victoria & Albert Museum,dcms,museum,art,estimate,1282240
+Victoria & Albert Museum,dcms,museum,art,estimate,1282380
 Science Museum Group,dcms,museum,science,estimate,0
 Museum of the Home,dcms,museum,history,estimate,12200
 Horniman Museum,dcms,museum,history,estimate,132612
@@ -201,7 +201,7 @@ People's History Museum,national,museum,social,estimate,0
 Portable Antiquities Scheme,national,museum,archaeology,estimate,0
 Royal Air Force Museum,national,library,military,estimate,26
 Royal Botanic Gardens Kew,national,museum,nature,estimate,0
-Royal Collection,national,museum,nature,estimate,0
+Royal Collection,national,museum,art,estimate,0
 Gwynedd Archive Services,archives,archive,mixed,estimate,0
 Hampshire Archives and Local Studies,archives,archive,mixed,estimate,0
 Kresen Kernow,archives,archive,mixed,estimate,0
@@ -352,7 +352,7 @@ People's History Museum,national,museum,social,estimate,0
 Portable Antiquities Scheme,national,museum,archaeology,estimate,0
 Royal Air Force Museum,national,archive,military,estimate,88
 Royal Botanic Gardens Kew,national,museum,nature,estimate,0
-Royal Collection,national,museum,nature,estimate,0
+Royal Collection,national,museum,art,estimate,0
 Gwynedd Archive Services,archives,archive,mixed,estimate,12000
 Hampshire Archives and Local Studies,archives,archive,mixed,estimate,1000000
 Kresen Kernow,archives,archive,mixed,estimate,614909
@@ -437,7 +437,7 @@ Wakefield Museums and Castles Collections,regional,museum,mixed,estimate,0
 Weald and Downland Living Museum,regional,museum,mixed,estimate,0
 Wiltshire Museum,regional,museum,mixed,estimate,0
 York Museums Trust,regional,archive,mixed,estimate,0
-Victoria & Albert Museum,dcms,archive,art,estimate,157835
+Victoria & Albert Museum,dcms,archive,art,estimate,157853
 Science Museum Group,dcms,museum,science,estimate,0
 Museum of the Home,dcms,museum,history,estimate,0
 Horniman Museum,dcms,museum,history,estimate,0
