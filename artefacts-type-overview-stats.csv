@@ -205,6 +205,12 @@ Royal Academy of Arts,archive,gallery,art,archive,item,estimate,0
 William Morris Gallery,museum,gallery,art,object,item,estimate,10000
 William Morris Gallery,library,gallery,art,library,item,estimate,0
 William Morris Gallery,archive,gallery,art,archive,item,estimate,0
+Institution of Engineering and Technology,museum,society,engineering,object,item,estimate,0
+Institution of Engineering and Technology,library,society,engineering,library,item,estimate,0
+Institution of Engineering and Technology,archive,society,engineering,archive,item,estimate,0
+Linnaean Society,museum,society,nature,object,item,estimate,14668
+Linnaean Society,library,society,nature,library,item,estimate,1600
+Linnaean Society,archive,society,nature,archive,item,estimate,4000
 Bowes Museum,museum,museum,art,object,item,estimate,0
 Bowes Museum,library,museum,art,library,item,estimate,0
 Bowes Museum,archive,museum,art,archive,item,estimate,0
@@ -355,12 +361,12 @@ Manchester Art Gallery,archive,gallery,art,archive,item,estimate,0
 Edinburgh Museums,museum,museum,mixed,object,item,estimate,220000
 Edinburgh Museums,library,museum,mixed,library,item,estimate,0
 Edinburgh Museums,archive,museum,mixed,archive,item,estimate,0
-Museums Northhumberland,museum,museum,mixed,object,item,estimate,25000
-Museums Northhumberland,library,museum,mixed,library,item,estimate,0
-Museums Northhumberland,archive,museum,mixed,archive,item,estimate,0
-Northhampton Museums,museum,museum,mixed,object,item,estimate,44024
-Northhampton Museums,library,museum,mixed,library,item,estimate,0
-Northhampton Museums,archive,museum,mixed,archive,item,estimate,0
+Museums Northumberland,museum,museum,mixed,object,item,estimate,25000
+Museums Northumberland,library,museum,mixed,library,item,estimate,0
+Museums Northumberland,archive,museum,mixed,archive,item,estimate,0
+Northampton Museums,museum,museum,mixed,object,item,estimate,44024
+Northampton Museums,library,museum,mixed,library,item,estimate,0
+Northampton Museums,archive,museum,mixed,archive,item,estimate,0
 Northern Ireland Screen,archive,archive,media,archive,collection,estimate,47
 Northern Ireland Screen,museum,archive,media,object,item,estimate,0
 Northern Ireland Screen,library,archive,media,library,item,estimate,0

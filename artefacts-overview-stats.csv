@@ -48,6 +48,7 @@ Dulwich Picture Gallery,independent,gallery,art,estimate,600
 Manchester Art Gallery,independent,gallery,art,estimate,46000
 National Galleries Scotland,independent,gallery,art,estimate,120000
 William Morris Gallery,regional,gallery,art,estimate,10000
+Linnaean Society,societies,society,nature,estimate,20268
 Bowes Museum,independent,museum,art,estimate,30000
 Britten Pears,independent,museum,art,estimate,1200
 Chatham Historic Dockyard,independent,building,maritime,estimate,70000
@@ -92,8 +93,8 @@ Leeds Museums & Galleries,regional,museum,mixed,estimate,1300000
 Leicester Museums,regional,museum,mixed,estimate,1500000
 Manchester Art Gallery,regional,gallery,art,estimate,50000
 Edinburgh Museums,regional,museum,mixed,estimate,220000
-Museums Northhumberland,regional,museum,mixed,estimate,25000
-Northhampton Museums,regional,museum,mixed,estimate,44024
+Museums Northumberland,regional,museum,mixed,estimate,25000
+Northampton Museums,regional,museum,mixed,estimate,44024
 Orkney Museums,regional,museum,mixed,estimate,100000
 Poole Museums,regional,museum,mixed,estimate,50000
 Potteries Museum and Art Gallery,regional,museum,art,estimate,1000000

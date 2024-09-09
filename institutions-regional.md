@@ -434,7 +434,7 @@
 | objects | TODO | TODO | 220000 |
 ### Sub-collections
 
-## Museums Northhumberland
+## Museums Northumberland
 
 ### Reports
 
@@ -456,7 +456,7 @@
 | --- | --- | --- | --- |
 ### Sub-collections
 
-## Northhampton Museums
+## Northampton Museums
 
 ### Reports
 

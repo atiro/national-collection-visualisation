@@ -67,6 +67,8 @@ Manchester Art Gallery,independent,gallery,art,estimate,0
 National Galleries Scotland,independent,gallery,art,estimate,0
 Royal Academy of Arts,independent,museum,art,estimate,18421
 William Morris Gallery,regional,gallery,art,estimate,0
+Institution of Engineering and Technology,societies,society,engineering,estimate,0
+Linnaean Society,societies,museum,nature,estimate,0
 Bowes Museum,independent,museum,art,estimate,0
 Britten Pears,independent,museum,art,estimate,0
 Chatham Historic Dockyard,independent,museum,maritime,estimate,1548
@@ -117,8 +119,8 @@ Leeds Museums & Galleries,regional,museum,mixed,estimate,0
 Leicester Museums,regional,museum,mixed,estimate,0
 Manchester Art Gallery,regional,gallery,art,estimate,0
 Edinburgh Museums,regional,museum,mixed,estimate,0
-Museums Northhumberland,regional,museum,mixed,estimate,0
-Northhampton Museums,regional,museum,mixed,estimate,0
+Museums Northumberland,regional,museum,mixed,estimate,0
+Northampton Museums,regional,museum,mixed,estimate,0
 Northern Ireland Screen,regional,archive,media,estimate,0
 Orkney Museums,regional,museum,mixed,estimate,0
 Poole Museums,regional,museum,mixed,estimate,1489
@@ -218,6 +220,8 @@ Manchester Art Gallery,independent,gallery,art,estimate,0
 National Galleries Scotland,independent,gallery,art,estimate,0
 Royal Academy of Arts,independent,gallery,art,estimate,0
 William Morris Gallery,regional,gallery,art,estimate,0
+Institution of Engineering and Technology,societies,society,engineering,estimate,0
+Linnaean Society,societies,library,nature,estimate,0
 Bowes Museum,independent,museum,art,estimate,0
 Britten Pears,independent,museum,art,estimate,0
 Chatham Historic Dockyard,independent,library,maritime,estimate,9249
@@ -268,8 +272,8 @@ Leeds Museums & Galleries,regional,museum,mixed,estimate,0
 Leicester Museums,regional,museum,mixed,estimate,0
 Manchester Art Gallery,regional,gallery,art,estimate,0
 Edinburgh Museums,regional,museum,mixed,estimate,0
-Museums Northhumberland,regional,museum,mixed,estimate,0
-Northhampton Museums,regional,library,mixed,estimate,0
+Museums Northumberland,regional,museum,mixed,estimate,0
+Northampton Museums,regional,library,mixed,estimate,0
 Northern Ireland Screen,regional,archive,media,estimate,0
 Orkney Museums,regional,museum,mixed,estimate,0
 Poole Museums,regional,museum,mixed,estimate,0
@@ -369,6 +373,8 @@ Manchester Art Gallery,independent,gallery,art,estimate,0
 National Galleries Scotland,independent,gallery,art,estimate,0
 Royal Academy of Arts,independent,archive,art,estimate,24768
 William Morris Gallery,regional,gallery,art,estimate,0
+Institution of Engineering and Technology,societies,archive,engineering,estimate,68098
+Linnaean Society,societies,archive,nature,estimate,0
 Bowes Museum,independent,museum,art,estimate,0
 Britten Pears,independent,museum,art,estimate,0
 Chatham Historic Dockyard,independent,archive,maritime,estimate,2058
@@ -419,8 +425,8 @@ Leeds Museums & Galleries,regional,museum,mixed,estimate,0
 Leicester Museums,regional,museum,mixed,estimate,0
 Manchester Art Gallery,regional,gallery,art,estimate,0
 Edinburgh Museums,regional,museum,mixed,estimate,0
-Museums Northhumberland,regional,museum,mixed,estimate,0
-Northhampton Museums,regional,archive,mixed,estimate,0
+Museums Northumberland,regional,museum,mixed,estimate,0
+Northampton Museums,regional,archive,mixed,estimate,0
 Northern Ireland Screen,regional,archive,media,estimate,0
 Orkney Museums,regional,museum,mixed,estimate,0
 Poole Museums,regional,museum,mixed,estimate,0

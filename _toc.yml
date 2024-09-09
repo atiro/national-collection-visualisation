@@ -24,6 +24,7 @@ parts:
       - file: library-institution-overview
       - file: archives-institution-overview
       - file: independent-institution-overview
+      - file: societies-institution-overview
       - file: regional-institution-overview
       - file: national-institution-overview
 #  - caption: Topic Stats

@@ -21,10 +21,10 @@ Royal Collection,Museum Collection,national,museum,transport,estimate,289595
 Staffordshire Archive and Heritage,Museum Collection,regional,museum,mixed,estimate,57017
 Courtauld Gallery,Museum Collection,independent,museum,mixed,estimate,33501
 Dulwich Picture Gallery,Museum Collection,independent,museum,mixed,estimate,33501
-Chatham Historic Dockyard,Museum Collection,independent,museum,art,estimate,1548
-Colchester and Ipswich Museums,Museum Collection,independent,museum,art,estimate,220000
-London Transport Museum,Museum Collection,independent,museum,art,estimate,271610
-Food Museum,Museum Collection,independent,museum,art,estimate,32040
+Chatham Historic Dockyard,Museum Collection,independent,museum,nature,estimate,1548
+Colchester and Ipswich Museums,Museum Collection,independent,museum,nature,estimate,220000
+London Transport Museum,Museum Collection,independent,museum,nature,estimate,271610
+Food Museum,Museum Collection,independent,museum,nature,estimate,32040
 Watts Gallery,Museum Collection,regional,museum,military,estimate,7756
 "Aberdeen Archives, Gallery and Museums",Museum Collection,regional,museum,medicine,estimate,151529
 Black Country Living Museum,Museum Collection,regional,museum,industry,estimate,4903
@@ -75,7 +75,7 @@ Lambeth Palace Library,Sion College Collections,library,library,theology,estimat
 National Museum of the Royal Navy,Library Collection,national,library,architecture,estimate,195690
 Royal Air Force Museum,Library Collection,national,library,transport,estimate,1344
 Staffordshire Archive and Heritage,William Salt Library,regional,library,mixed,estimate,139389
-Chatham Historic Dockyard,Library Collection,independent,library,art,estimate,1548
+Chatham Historic Dockyard,Library Collection,independent,library,nature,estimate,1548
 Watts Gallery,Library Collection,regional,library,military,estimate,7756
 Victoria & Albert Museum,National Art Library,dcms,library,art,estimate,849000
 Museum of the Home,Library Collection,dcms,library,history,exact,6290
@@ -99,7 +99,8 @@ Staffordshire Archive and Heritage,Stoke on Trent City Archives,regional,archive
 Tyne & Wear Archives Catalogue,Archive Collection,archives,archive,mixed,estimate,4602160
 West Glamorgan Archive Service,Archive Collection,archives,archive,mixed,estimate,230000
 Yorkshire Film Archive,Archive Collection,archives,archive,mixed,estimate,8483
-Chatham Historic Dockyard,Archive Collection,independent,archive,art,estimate,2058
+Institution of Engineering and Technology,Archive Collection,societies,archive,art,estimate,68098
+Chatham Historic Dockyard,Archive Collection,independent,archive,nature,estimate,2058
 Watts Gallery,Archive Collection,regional,archive,military,estimate,668
 "Aberdeen Archives, Gallery and Museums",Archive Collection,regional,archive,medicine,estimate,95798
 Bradford District Museums & Galleries,Photographic Archive,regional,archive,mixed,estimate,21878
