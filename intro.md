@@ -9,26 +9,26 @@ Treemap diagram showing by area what percentage of the UK National Collection is
 :::
 
 
-The above areamap and the following notebooks are an optimistic attempt to 
+The above visualisation and the following notebooks are an optimistic attempt to 
 visualise the extent of the UK National Collection of 'Artefacts'. That is,
 everything in the collections of museums, libraries, galleries and archives
 (and some houses and castles and gardens as well) of the UK and the extent
 to which it has been catalogued (or not), digitised (or not), and made 
-available online (or not). And with further updates, to chart progress
-towards the goal over time over making more (all seems too final) of it available 
-online as part of a national collection, in whatever form that takes.
+available online (or not). And, with further updates, to chart progress
+towards the goal over time over making more of it available online as part
+of a "national collection", in whatever form that takes.
 
 The list of 216 institutions considered is taken from the report commisioned by the 
 'Towards a National Collection' project - "[Digital Collections Audit](https://museumdata.uk/wp-content/uploads/2023/11/Digital-Audit.pdf)
-by Kevin Gosling & Gordon McKenna (Collections Trust), Adrian Cooper (Intelligent Heritage) - March 2022"
+by Kevin Gosling & Gordon McKenna (Collections Trust), Adrian Cooper (Intelligent Heritage) - March 2022" with some additions.
 
 The statistics presented here in various forms are taken from the institutions
 collections websites (where available). A huge amount of personal 
 interpretation has been taken after carrying out a brief review of the website or annual report, 
-interpretation needed because of the variety of ways collections can be arranged,
-counted and understood; because of the lack of definition of the words artefacts, collections,
-items, objects, archives and because of the vaguaries of how records are made searchable online. Additionally
-there are three dominant collection types:
+interpretation that is needed because of the variety of ways collections can be arranged,
+counted and understood; needed because of the lack of definition of the words artefacts, collections,
+items, objects, archives and needed because of the vaguaries of artefact records are made searchable online.
+Additionally there are three overwhelmingly dominant types of collection:
 
   * Collections holding natural history specimens
   * Library Collections

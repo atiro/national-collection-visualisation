@@ -17,6 +17,11 @@ parts:
       - file: methodology
 #  - caption: Overview (Progress)
 #  - caption: Per Overview (Latest)
+  - caption: Artefact Type Overview (Latest)
+    chapters:
+      - file: museum-objects-overview
+      - file: library-items-overview
+      - file: archive-items-overview
   - caption: Sector Overview (Latest)
     chapters:
       - file: dcms-institution-overview
@@ -32,11 +37,6 @@ parts:
 #    - file: objects-overview
 #    - file: library-overview
 #    - file: archive-overview
-  - caption: Artefact Type Overview (Latest)
-    chapters:
-      - file: museum-objects-overview
-      - file: library-items-overview
-      - file: archive-items-overview
   - caption: Institution Details
     chapters:
       - file: institutions-archives.md
