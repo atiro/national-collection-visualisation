@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: "Cultural Heritage Collections Data Infrastructure"
-author: Richard Palmer (V&A)
+author: Richard Palmer 
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
