@@ -39,8 +39,8 @@ National Museum of the Royal Navy,national,museum,maritime,estimate,195690
 National Museums NI,national,museum,mixed,estimate,0
 National Museums Scotland,national,museum,mixed,estimate,820000
 National Tramway Museum,national,museum,mixed,estimate,0
-National Trust,national,building,art,estimate,0
-National Trust for Scotland,national,building,art,estimate,0
+National Trust,national,building,heritage,estimate,0
+National Trust for Scotland,national,building,heritage,estimate,0
 National Waterways Museum,national,museum,transport,estimate,4574
 Government Art Collection,national,museum,art,estimate,15247
 Historic England Archive,national,archive,heritage,estimate,0
@@ -67,13 +67,13 @@ Manchester Art Gallery,independent,gallery,art,estimate,0
 National Galleries Scotland,independent,gallery,art,estimate,0
 Royal Academy of Arts,independent,museum,art,estimate,18421
 William Morris Gallery,regional,gallery,art,estimate,0
-Institution of Engineering and Technology,societies,society,engineering,estimate,0
+Institution of Engineering and Technology,societies,archive,engineering,estimate,0
 Linnaean Society,societies,museum,nature,estimate,0
 Bowes Museum,independent,museum,art,estimate,0
 Britten Pears,independent,museum,art,estimate,0
 Chatham Historic Dockyard,independent,museum,maritime,estimate,1548
 Colchester and Ipswich Museums,independent,museum,mixed,estimate,220000
-English Heritage Trust,independent,building,history,estimate,0
+English Heritage Trust,independent,building,heritage,estimate,0
 Gordon Highlanders Museum,independent,museum,military,estimate,0
 Ironbridge Gorge Museum Trust,independent,museum,industry,estimate,0
 Jewish Museum London,independent,museum,social,estimate,0
@@ -137,7 +137,7 @@ Wakefield Museums and Castles Collections,regional,museum,mixed,estimate,0
 Weald and Downland Living Museum,regional,museum,mixed,estimate,0
 Wiltshire Museum,regional,museum,mixed,estimate,126410
 York Museums Trust,regional,museum,mixed,estimate,154354
-Victoria & Albert Museum,dcms,museum,art,estimate,1282380
+Victoria & Albert Museum,dcms,museum,art,estimate,1282454
 Science Museum Group,dcms,museum,science,estimate,0
 Museum of the Home,dcms,museum,history,estimate,12200
 Horniman Museum,dcms,museum,history,estimate,132612
@@ -192,8 +192,8 @@ National Museum of the Royal Navy,national,library,maritime,estimate,12828
 National Museums NI,national,museum,mixed,estimate,0
 National Museums Scotland,national,museum,mixed,estimate,0
 National Tramway Museum,national,museum,mixed,estimate,0
-National Trust,national,building,art,estimate,0
-National Trust for Scotland,national,building,art,estimate,0
+National Trust,national,building,heritage,estimate,0
+National Trust for Scotland,national,building,heritage,estimate,0
 National Waterways Museum,national,building,transport,estimate,0
 Government Art Collection,national,museum,art,estimate,0
 Historic England Archive,national,archive,heritage,estimate,0
@@ -220,13 +220,13 @@ Manchester Art Gallery,independent,gallery,art,estimate,0
 National Galleries Scotland,independent,gallery,art,estimate,0
 Royal Academy of Arts,independent,gallery,art,estimate,0
 William Morris Gallery,regional,gallery,art,estimate,0
-Institution of Engineering and Technology,societies,society,engineering,estimate,0
+Institution of Engineering and Technology,societies,archive,engineering,estimate,0
 Linnaean Society,societies,library,nature,estimate,0
 Bowes Museum,independent,museum,art,estimate,0
 Britten Pears,independent,museum,art,estimate,0
 Chatham Historic Dockyard,independent,library,maritime,estimate,9249
 Colchester and Ipswich Museums,independent,museum,mixed,estimate,0
-English Heritage Trust,independent,building,history,estimate,0
+English Heritage Trust,independent,building,heritage,estimate,0
 Gordon Highlanders Museum,independent,museum,military,estimate,0
 Ironbridge Gorge Museum Trust,independent,museum,industry,estimate,0
 Jewish Museum London,independent,museum,social,estimate,0
@@ -345,8 +345,8 @@ National Museum of the Royal Navy,national,museum,maritime,estimate,0
 National Museums NI,national,museum,mixed,estimate,0
 National Museums Scotland,national,museum,mixed,estimate,0
 National Tramway Museum,national,museum,mixed,estimate,0
-National Trust,national,building,art,estimate,0
-National Trust for Scotland,national,building,art,estimate,0
+National Trust,national,building,heritage,estimate,0
+National Trust for Scotland,national,building,heritage,estimate,0
 National Waterways Museum,national,archive,transport,estimate,53195
 Government Art Collection,national,museum,art,estimate,0
 Historic England Archive,national,archive,heritage,estimate,1000000
@@ -379,7 +379,7 @@ Bowes Museum,independent,museum,art,estimate,0
 Britten Pears,independent,museum,art,estimate,0
 Chatham Historic Dockyard,independent,archive,maritime,estimate,2058
 Colchester and Ipswich Museums,independent,museum,mixed,estimate,0
-English Heritage Trust,independent,building,history,estimate,0
+English Heritage Trust,independent,building,heritage,estimate,0
 Gordon Highlanders Museum,independent,museum,military,estimate,0
 Ironbridge Gorge Museum Trust,independent,museum,industry,estimate,0
 Jewish Museum London,independent,museum,social,estimate,0
@@ -443,7 +443,7 @@ Wakefield Museums and Castles Collections,regional,museum,mixed,estimate,0
 Weald and Downland Living Museum,regional,museum,mixed,estimate,0
 Wiltshire Museum,regional,museum,mixed,estimate,0
 York Museums Trust,regional,archive,mixed,estimate,0
-Victoria & Albert Museum,dcms,archive,art,estimate,157853
+Victoria & Albert Museum,dcms,archive,art,estimate,158411
 Science Museum Group,dcms,museum,science,estimate,0
 Museum of the Home,dcms,museum,history,estimate,0
 Horniman Museum,dcms,museum,history,estimate,0

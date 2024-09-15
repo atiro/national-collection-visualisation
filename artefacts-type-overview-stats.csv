@@ -120,12 +120,12 @@ National Museums Scotland,archive,museum,mixed,archive,item,estimate,0
 National Tramway Museum,museum,museum,mixed,object,item,estimate,46690
 National Tramway Museum,library,museum,mixed,library,item,estimate,0
 National Tramway Museum,archive,museum,mixed,archive,item,estimate,0
-National Trust,museum,building,art,object,item,estimate,0
-National Trust,library,building,art,library,item,estimate,0
-National Trust,archive,building,art,archive,item,estimate,0
-National Trust for Scotland,museum,building,art,object,item,estimate,0
-National Trust for Scotland,library,building,art,library,item,estimate,0
-National Trust for Scotland,archive,building,art,archive,item,estimate,0
+National Trust,museum,building,heritage,object,item,estimate,0
+National Trust,library,building,heritage,library,item,estimate,0
+National Trust,archive,building,heritage,archive,item,estimate,0
+National Trust for Scotland,museum,building,heritage,object,item,estimate,0
+National Trust for Scotland,library,building,heritage,library,item,estimate,0
+National Trust for Scotland,archive,building,heritage,archive,item,estimate,0
 National Waterways Museum,museum,building,transport,object,item,estimate,0
 National Waterways Museum,library,building,transport,library,item,estimate,0
 National Waterways Museum,archive,building,transport,archive,item,estimate,0
@@ -205,12 +205,12 @@ Royal Academy of Arts,archive,gallery,art,archive,item,estimate,0
 William Morris Gallery,museum,gallery,art,object,item,estimate,10000
 William Morris Gallery,library,gallery,art,library,item,estimate,0
 William Morris Gallery,archive,gallery,art,archive,item,estimate,0
-Institution of Engineering and Technology,museum,society,engineering,object,item,estimate,0
-Institution of Engineering and Technology,library,society,engineering,library,item,estimate,0
-Institution of Engineering and Technology,archive,society,engineering,archive,item,estimate,0
-Linnaean Society,museum,society,nature,object,item,estimate,14668
-Linnaean Society,library,society,nature,library,item,estimate,1600
-Linnaean Society,archive,society,nature,archive,item,estimate,4000
+Institution of Engineering and Technology,museum,archive,engineering,object,item,estimate,0
+Institution of Engineering and Technology,library,archive,engineering,library,item,estimate,0
+Institution of Engineering and Technology,archive,archive,engineering,archive,item,estimate,0
+Linnaean Society,museum,museum,nature,object,item,estimate,14668
+Linnaean Society,library,museum,nature,library,item,estimate,1600
+Linnaean Society,archive,museum,nature,archive,item,estimate,4000
 Bowes Museum,museum,museum,art,object,item,estimate,0
 Bowes Museum,library,museum,art,library,item,estimate,0
 Bowes Museum,archive,museum,art,archive,item,estimate,0
@@ -223,9 +223,9 @@ Chatham Historic Dockyard,archive,building,maritime,archive,item,estimate,0
 Colchester and Ipswich Museums,museum,museum,mixed,object,item,estimate,0
 Colchester and Ipswich Museums,library,museum,mixed,library,item,estimate,0
 Colchester and Ipswich Museums,archive,museum,mixed,archive,item,estimate,0
-English Heritage Trust,museum,building,history,object,item,estimate,0
-English Heritage Trust,library,building,history,library,item,estimate,0
-English Heritage Trust,archive,building,history,archive,item,estimate,0
+English Heritage Trust,museum,building,heritage,object,item,estimate,0
+English Heritage Trust,library,building,heritage,library,item,estimate,0
+English Heritage Trust,archive,building,heritage,archive,item,estimate,0
 Gordon Highlanders Museum,museum,museum,military,object,item,estimate,0
 Gordon Highlanders Museum,library,museum,military,library,item,estimate,0
 Gordon Highlanders Museum,archive,museum,military,archive,item,estimate,0
@@ -244,9 +244,9 @@ Manchester Jewish Museum,archive,museum,social,archive,item,estimate,0
 Mary Rose Trust,museum,museum,maritime,object,item,estimate,19000
 Mary Rose Trust,library,museum,maritime,library,item,estimate,0
 Mary Rose Trust,archive,museum,maritime,archive,item,estimate,0
+Media Archive for Central England (MACE),archive,archive,media,archive,item,estimate,65000
 Media Archive for Central England (MACE),museum,archive,media,object,item,estimate,0
 Media Archive for Central England (MACE),library,archive,media,library,item,estimate,0
-Media Archive for Central England (MACE),archive,archive,media,archive,item,estimate,0
 Food Museum,museum,museum,social,object,item,estimate,40000
 Food Museum,library,museum,social,library,item,estimate,0
 Food Museum,archive,museum,social,archive,item,estimate,0

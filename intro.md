@@ -9,18 +9,19 @@ Treemap diagram showing by area what percentage of the UK National Collection is
 :::
 
 
-The above visualisation and the following notebooks are an optimistic attempt to 
-visualise the extent of the UK National Collection of 'Artefacts'. That is,
-everything in the collections of museums, libraries, galleries and archives
-(and some houses and castles and gardens as well) of the UK and the extent
-to which it has been catalogued (or not), digitised (or not), and made 
-available online (or not). And, with further updates, to chart progress
-towards the goal over time over making more of it available online as part
-of a "national collection", in whatever form that takes.
+The above (static) visualisation and the following notebooks with interactive visualisations are an
+optimistic attempt to visualise the extent of the UK National Collection of 'Artefacts'. That is,
+everything held in the collections of museums, libraries, galleries and archives
+(and in some castles and gardens and houses and so on) of the UK, and the extent
+to which they have been catalogued (or not), digitised (or not), and made available online (or not).
+And, with further updates, to chart progress towards the goal over time over making more of it
+available online as part of a "national collection", in whatever form that takes.
 
-The list of 216 institutions considered is taken from the report commisioned by the 
+The list of 216 institutions is taken from the report commisioned by the 
 'Towards a National Collection' project - "[Digital Collections Audit](https://museumdata.uk/wp-content/uploads/2023/11/Digital-Audit.pdf)
-by Kevin Gosling & Gordon McKenna (Collections Trust), Adrian Cooper (Intelligent Heritage) - March 2022" with some additions.
+by Kevin Gosling & Gordon McKenna (Collections Trust), Adrian Cooper (Intelligent Heritage) - March 2022" with some additions. The
+visualisations here are very much inspired by this work, but are not associated with or commisioned by Towards a National Collection
+(or indeed by anyone but me).
 
 The statistics presented here in various forms are taken from the institutions
 collections websites (where available). A huge amount of personal 
@@ -47,6 +48,7 @@ hard to draw on the same visualisation as counts of items.
   * Dealing with archives properly (and apologies as always to archivists for defering their problems until later)
   * Optionally seperating out specimens and non-special collection library items from all charts
   * Updates showing progress in cataloguing/digitisation - comparing now with then
+  * Show how rich the cataloguing is - that is how much information is catalogued from simple inventory level to "complete"
   * Providing scorecard of how accessible each collection is and how easy it is to retrieve latest statistics
   * Providing a simple standard way for marking collection size available to aid in this work
 

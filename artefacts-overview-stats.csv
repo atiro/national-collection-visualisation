@@ -32,8 +32,8 @@ National Museum of the Royal Navy,national,museum,maritime,estimate,2500000
 National Museums NI,national,museum,mixed,estimate,1400000
 National Museums Scotland,national,museum,mixed,estimate,12000000
 National Tramway Museum,national,museum,mixed,estimate,46690
-National Trust,national,building,art,estimate,1000000
-National Trust for Scotland,national,building,art,estimate,300000
+National Trust,national,building,heritage,estimate,1000000
+National Trust for Scotland,national,building,heritage,estimate,300000
 National Waterways Museum,national,building,transport,estimate,150000
 Government Art Collection,national,museum,art,estimate,15000
 Historic Environment Scotland,national,museum,heritage,estimate,41000
@@ -48,18 +48,17 @@ Dulwich Picture Gallery,independent,gallery,art,estimate,600
 Manchester Art Gallery,independent,gallery,art,estimate,46000
 National Galleries Scotland,independent,gallery,art,estimate,120000
 William Morris Gallery,regional,gallery,art,estimate,10000
-Linnaean Society,societies,society,nature,estimate,20268
+Linnaean Society,societies,museum,nature,estimate,20268
 Bowes Museum,independent,museum,art,estimate,30000
 Britten Pears,independent,museum,art,estimate,1200
 Chatham Historic Dockyard,independent,building,maritime,estimate,70000
-English Heritage Trust,independent,building,history,estimate,700000
+English Heritage Trust,independent,building,heritage,estimate,700000
 Gordon Highlanders Museum,independent,museum,military,estimate,40000
 Ironbridge Gorge Museum Trust,independent,museum,industry,estimate,400000
 Jewish Museum London,independent,museum,social,estimate,40000
 London Transport Museum,independent,museum,transport,estimate,500000
 Manchester Jewish Museum,independent,museum,social,estimate,31000
 Mary Rose Trust,independent,museum,maritime,estimate,19000
-Media Archive for Central England (MACE),independent,archive,media,estimate,65000
 Food Museum,independent,museum,social,estimate,40000
 Museum of Freemasonry,independent,museum,social,estimate,90000
 Museum of Lead Mining,independent,museum,industry,estimate,2572
